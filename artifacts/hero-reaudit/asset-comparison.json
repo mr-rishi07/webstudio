@@ -1,0 +1,37 @@
+[
+    {
+        "Card":  "quiet",
+        "Width":  501,
+        "Height":  622,
+        "DifferentPixels":  103201,
+        "MeanChannelError":  1.2751209799051415
+    },
+    {
+        "Card":  "slice",
+        "Width":  501,
+        "Height":  622,
+        "DifferentPixels":  197011,
+        "MeanChannelError":  2.1237918054566109
+    },
+    {
+        "Card":  "babyhush",
+        "Width":  501,
+        "Height":  622,
+        "DifferentPixels":  112068,
+        "MeanChannelError":  1.1763338275218052
+    },
+    {
+        "Card":  "neocultural",
+        "Width":  501,
+        "Height":  621,
+        "DifferentPixels":  184895,
+        "MeanChannelError":  2.0524032450397112
+    },
+    {
+        "Card":  "inflatable",
+        "Width":  501,
+        "Height":  622,
+        "DifferentPixels":  194765,
+        "MeanChannelError":  1.3906792524276206
+    }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "scrollY": 4501,
+    "section": {
+      "x": 0,
+      "y": 324,
+      "width": 1440,
+      "height": 576,
+      "bottom": 900
+    },
+    "heading": {
+      "x": 510.66680908203125,
+      "y": 366,
+      "width": 418.6663818359375,
+      "height": 49,
+      "bottom": 415
+    },
+    "image": {
+      "x": 0,
+      "y": 406,
+      "width": 1440,
+      "height": 494,
+      "bottom": 900
+    },
+    "overflowing": []
+  },
+  {
+    "width": 1280,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "scrollY": 4446,
+    "section": {
+      "x": 0,
+      "y": 379,
+      "width": 1280,
+      "height": 521.109375,
+      "bottom": 900.109375
+    },
+    "heading": {
+      "x": 430.66680908203125,
+      "y": 421,
+      "width": 418.6663818359375,
+      "height": 49,
+      "bottom": 470
+    },
+    "image": {
+      "x": 0,
+      "y": 461,
+      "width": 1280,
+      "height": 439.109375,
+      "bottom": 900.109375
+    },
+    "overflowing": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -80,
+          "y": -3972,
+          "width": 1440,
+          "height": 530,
+          "bottom": -3442
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -32.875,
+          "y": -3826.984375,
+          "width": 310,
+          "height": 384.859375,
+          "bottom": -3442.125
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 1002.75,
+          "y": -3826.984375,
+          "width": 310,
+          "height": 384.859375,
+          "bottom": -3442.125
+        }
+      },
+      {
+        "tag": "P",
+        "className": "FullyCustomized-module__IfMMGG__description",
+        "rect": {
+          "x": 801,
+          "y": -2471,
+          "width": 507.739990234375,
+          "height": 156,
+          "bottom": -2315
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "FullyCustomized-module__IfMMGG__artwork",
+        "rect": {
+          "x": 32,
+          "y": -2398,
+          "width": 1280,
+          "height": 748.59375,
+          "bottom": -1649.40625
+        }
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "scrollY": 3668,
+    "section": {
+      "x": 0,
+      "y": 466.4375,
+      "width": 1024,
+      "height": 433.28125,
+      "bottom": 899.71875
+    },
+    "heading": {
+      "x": 302.66680908203125,
+      "y": 508.4375,
+      "width": 418.6663818359375,
+      "height": 49,
+      "bottom": 557.4375
+    },
+    "image": {
+      "x": 0,
+      "y": 548.4375,
+      "width": 1024,
+      "height": 351.28125,
+      "bottom": 899.71875
+    },
+    "overflowing": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "scrollY": 3487,
+    "section": {
+      "x": 0,
+      "y": 555.03125,
+      "width": 768,
+      "height": 345.453125,
+      "bottom": 900.484375
+    },
+    "heading": {
+      "x": 174.66680908203125,
+      "y": 597.03125,
+      "width": 418.6663818359375,
+      "height": 49,
+      "bottom": 646.03125
+    },
+    "image": {
+      "x": 0,
+      "y": 637.03125,
+      "width": 768,
+      "height": 263.453125,
+      "bottom": 900.484375
+    },
+    "overflowing": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -127.99197387695312,
+          "y": -3015,
+          "width": 1023.98388671875,
+          "height": 376.883056640625,
+          "bottom": -2638.116943359375
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -94.48138427734375,
+          "y": -2911.87939453125,
+          "width": 220.4409942626953,
+          "height": 273.67333984375,
+          "bottom": -2638.2060546875
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 641.9515380859375,
+          "y": -2911.87939453125,
+          "width": 220.4410400390625,
+          "height": 273.67333984375,
+          "bottom": -2638.2060546875
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "scrollY": 2487,
+    "section": {
+      "x": 0,
+      "y": 708.53125,
+      "width": 390,
+      "height": 191.78125,
+      "bottom": 900.3125
+    },
+    "heading": {
+      "x": 46.70683288574219,
+      "y": 730.53125,
+      "width": 296.5863037109375,
+      "height": 36,
+      "bottom": 766.53125
+    },
+    "image": {
+      "x": 0,
+      "y": 766.53125,
+      "width": 390,
+      "height": 133.78125,
+      "bottom": 900.3125
+    },
+    "overflowing": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -150.60000610351562,
+          "y": -2025,
+          "width": 691.199951171875,
+          "height": 254.4000244140625,
+          "bottom": -1770.5999755859375
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -127.98001098632812,
+          "y": -1955.392578125,
+          "width": 148.8000030517578,
+          "height": 184.7325439453125,
+          "bottom": -1770.6600341796875
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__sliceDebit",
+        "rect": {
+          "x": -7.5000152587890625,
+          "y": -2007.112548828125,
+          "width": 148.8000030517578,
+          "height": 184.7325439453125,
+          "bottom": -1822.3800048828125
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__neoCultural",
+        "rect": {
+          "x": 248.625,
+          "y": -2007.10498046875,
+          "width": 148.79995727539062,
+          "height": 184.43994140625,
+          "bottom": -1822.6650390625
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 369.1199645996094,
+          "y": -1955.392578125,
+          "width": 148.79995727539062,
+          "height": 184.7325439453125,
+          "bottom": -1770.6600341796875
+        }
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "scrollY": 2500,
+    "section": {
+      "x": 0,
+      "y": 735.15625,
+      "width": 320,
+      "height": 164.765625,
+      "bottom": 899.921875
+    },
+    "heading": {
+      "x": 26.685760498046875,
+      "y": 757.15625,
+      "width": 266.62847900390625,
+      "height": 33,
+      "bottom": 790.15625
+    },
+    "image": {
+      "x": 0,
+      "y": 790.15625,
+      "width": 320,
+      "height": 109.765625,
+      "bottom": 899.921875
+    },
+    "overflowing": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -185.60000610351562,
+          "y": -2038,
+          "width": 691.2000122070312,
+          "height": 254.4000244140625,
+          "bottom": -1783.5999755859375
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -162.98001098632812,
+          "y": -1968.392578125,
+          "width": 148.8000030517578,
+          "height": 184.7325439453125,
+          "bottom": -1783.6600341796875
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__sliceDebit",
+        "rect": {
+          "x": -42.50001525878906,
+          "y": -2020.112548828125,
+          "width": 148.8000030517578,
+          "height": 184.7325439453125,
+          "bottom": -1835.3800048828125
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__neoCultural",
+        "rect": {
+          "x": 213.625,
+          "y": -2020.10498046875,
+          "width": 148.79995727539062,
+          "height": 184.43994140625,
+          "bottom": -1835.6650390625
+        }
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 334.1199645996094,
+          "y": -1968.392578125,
+          "width": 148.79998779296875,
+          "height": 184.7325439453125,
+          "bottom": -1783.6600341796875
+        }
+      }
+    ]
+  }
+]

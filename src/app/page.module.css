@@ -1,0 +1,10 @@
+.page {
+  min-height: calc(100svh - 90px);
+  background: var(--color-surface);
+}
+
+@media (max-width: 767px) {
+  .page {
+    min-height: calc(100svh - 72px);
+  }
+}

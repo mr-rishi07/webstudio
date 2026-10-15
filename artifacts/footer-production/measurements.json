@@ -1,0 +1,464 @@
+[
+  {
+    "viewport": 1440,
+    "scrollY": 4877,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "footer": {
+      "x": 0,
+      "y": 524,
+      "width": 1440,
+      "height": 576,
+      "right": 1440,
+      "bottom": 1100
+    },
+    "wordmark": {
+      "x": 94,
+      "y": 681,
+      "width": 358,
+      "height": 60,
+      "right": 452,
+      "bottom": 741
+    },
+    "description": {
+      "x": 94,
+      "y": 757,
+      "width": 376.0026550292969,
+      "height": 48,
+      "right": 470.0026550292969,
+      "bottom": 805,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 626,
+      "y": 632,
+      "width": 720,
+      "height": 171,
+      "right": 1346,
+      "bottom": 803
+    },
+    "groups": [
+      {
+        "x": 626,
+        "y": 632,
+        "width": 166,
+        "height": 171,
+        "right": 792,
+        "bottom": 803
+      },
+      {
+        "x": 874,
+        "y": 632,
+        "width": 166,
+        "height": 171,
+        "right": 1040,
+        "bottom": 803
+      },
+      {
+        "x": 1122,
+        "y": 632,
+        "width": 224,
+        "height": 171,
+        "right": 1346,
+        "bottom": 803
+      }
+    ],
+    "newsletter": {
+      "x": 94,
+      "y": 843,
+      "width": 448,
+      "height": 43,
+      "right": 542,
+      "bottom": 886
+    },
+    "overlap": {
+      "width": 0,
+      "height": 46
+    }
+  },
+  {
+    "viewport": 1280,
+    "scrollY": 4822,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "footer": {
+      "x": 0,
+      "y": 524.109375,
+      "width": 1280,
+      "height": 576,
+      "right": 1280,
+      "bottom": 1100.109375
+    },
+    "wordmark": {
+      "x": 94,
+      "y": 681.109375,
+      "width": 358,
+      "height": 60,
+      "right": 452,
+      "bottom": 741.109375
+    },
+    "description": {
+      "x": 94,
+      "y": 757.109375,
+      "width": 376.0026550292969,
+      "height": 48,
+      "right": 470.0026550292969,
+      "bottom": 805.109375,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 500,
+      "y": 632.109375,
+      "width": 686,
+      "height": 171,
+      "right": 1186,
+      "bottom": 803.109375
+    },
+    "groups": [
+      {
+        "x": 500,
+        "y": 632.109375,
+        "width": 166,
+        "height": 171,
+        "right": 666,
+        "bottom": 803.109375
+      },
+      {
+        "x": 731,
+        "y": 632.109375,
+        "width": 166,
+        "height": 171,
+        "right": 897,
+        "bottom": 803.109375
+      },
+      {
+        "x": 962,
+        "y": 632.109375,
+        "width": 224,
+        "height": 171,
+        "right": 1186,
+        "bottom": 803.109375
+      }
+    ],
+    "newsletter": {
+      "x": 94,
+      "y": 843.109375,
+      "width": 448,
+      "height": 43,
+      "right": 542,
+      "bottom": 886.109375
+    },
+    "overlap": {
+      "width": 0,
+      "height": 46
+    }
+  },
+  {
+    "viewport": 1024,
+    "scrollY": 4113,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "footer": {
+      "x": 0,
+      "y": 475.71875,
+      "width": 1024,
+      "height": 624,
+      "right": 1024,
+      "bottom": 1099.71875
+    },
+    "wordmark": {
+      "x": 48,
+      "y": 563.71875,
+      "width": 358,
+      "height": 60,
+      "right": 406,
+      "bottom": 623.71875
+    },
+    "description": {
+      "x": 454,
+      "y": 573.71875,
+      "width": 522,
+      "height": 48,
+      "right": 976,
+      "bottom": 621.71875,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 48,
+      "y": 669.71875,
+      "width": 928,
+      "height": 171,
+      "right": 976,
+      "bottom": 840.71875
+    },
+    "groups": [
+      {
+        "x": 48,
+        "y": 669.71875,
+        "width": 277.328125,
+        "height": 171,
+        "right": 325.328125,
+        "bottom": 840.71875
+      },
+      {
+        "x": 373.328125,
+        "y": 669.71875,
+        "width": 277.328125,
+        "height": 171,
+        "right": 650.65625,
+        "bottom": 840.71875
+      },
+      {
+        "x": 698.65625,
+        "y": 669.71875,
+        "width": 277.34375,
+        "height": 171,
+        "right": 976,
+        "bottom": 840.71875
+      }
+    ],
+    "newsletter": {
+      "x": 48,
+      "y": 886.71875,
+      "width": 448,
+      "height": 43,
+      "right": 496,
+      "bottom": 929.71875
+    },
+    "overlap": {
+      "width": 0,
+      "height": 0
+    }
+  },
+  {
+    "viewport": 768,
+    "scrollY": 4107,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "footer": {
+      "x": 0,
+      "y": 277.484375,
+      "width": 768,
+      "height": 823,
+      "right": 768,
+      "bottom": 1100.484375
+    },
+    "wordmark": {
+      "x": 24,
+      "y": 349.484375,
+      "width": 358,
+      "height": 60,
+      "right": 382,
+      "bottom": 409.484375
+    },
+    "description": {
+      "x": 24,
+      "y": 427.484375,
+      "width": 720,
+      "height": 46,
+      "right": 744,
+      "bottom": 473.484375,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 24,
+      "y": 515.484375,
+      "width": 720,
+      "height": 310,
+      "right": 744,
+      "bottom": 825.484375
+    },
+    "groups": [
+      {
+        "x": 24,
+        "y": 515.484375,
+        "width": 336,
+        "height": 171,
+        "right": 360,
+        "bottom": 686.484375
+      },
+      {
+        "x": 408,
+        "y": 515.484375,
+        "width": 336,
+        "height": 171,
+        "right": 744,
+        "bottom": 686.484375
+      },
+      {
+        "x": 24,
+        "y": 726.484375,
+        "width": 336,
+        "height": 99,
+        "right": 360,
+        "bottom": 825.484375
+      }
+    ],
+    "newsletter": {
+      "x": 24,
+      "y": 865.484375,
+      "width": 448,
+      "height": 43,
+      "right": 472,
+      "bottom": 908.484375
+    },
+    "overlap": {
+      "width": 336,
+      "height": 0
+    }
+  },
+  {
+    "viewport": 390,
+    "scrollY": 3747,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "footer": {
+      "x": 0,
+      "y": 90.4375,
+      "width": 390,
+      "height": 1010,
+      "right": 390,
+      "bottom": 1100.4375
+    },
+    "wordmark": {
+      "x": 16,
+      "y": 162.4375,
+      "width": 358,
+      "height": 60,
+      "right": 374,
+      "bottom": 222.4375
+    },
+    "description": {
+      "x": 16,
+      "y": 240.4375,
+      "width": 358,
+      "height": 46,
+      "right": 374,
+      "bottom": 286.4375,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 16,
+      "y": 328.4375,
+      "width": 358,
+      "height": 477,
+      "right": 374,
+      "bottom": 805.4375
+    },
+    "groups": [
+      {
+        "x": 16,
+        "y": 328.4375,
+        "width": 358,
+        "height": 171,
+        "right": 374,
+        "bottom": 499.4375
+      },
+      {
+        "x": 16,
+        "y": 535.4375,
+        "width": 358,
+        "height": 135,
+        "right": 374,
+        "bottom": 670.4375
+      },
+      {
+        "x": 16,
+        "y": 706.4375,
+        "width": 358,
+        "height": 99,
+        "right": 374,
+        "bottom": 805.4375
+      }
+    ],
+    "newsletter": {
+      "x": 16,
+      "y": 845.4375,
+      "width": 358,
+      "height": 45,
+      "right": 374,
+      "bottom": 890.4375
+    },
+    "overlap": {
+      "width": 358,
+      "height": 0
+    }
+  },
+  {
+    "viewport": 320,
+    "scrollY": 3765,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "footer": {
+      "x": 0,
+      "y": 79.140625,
+      "width": 320,
+      "height": 1021.265625,
+      "right": 320,
+      "bottom": 1100.40625
+    },
+    "wordmark": {
+      "x": 16,
+      "y": 151.140625,
+      "width": 288,
+      "height": 48.265625,
+      "right": 304,
+      "bottom": 199.40625
+    },
+    "description": {
+      "x": 16,
+      "y": 217.40625,
+      "width": 288,
+      "height": 69,
+      "right": 304,
+      "bottom": 286.40625,
+      "text": "Advancing the protocol layer. Join our network for technical updates and architecture proposals."
+    },
+    "navigation": {
+      "x": 16,
+      "y": 328.40625,
+      "width": 288,
+      "height": 477,
+      "right": 304,
+      "bottom": 805.40625
+    },
+    "groups": [
+      {
+        "x": 16,
+        "y": 328.40625,
+        "width": 288,
+        "height": 171,
+        "right": 304,
+        "bottom": 499.40625
+      },
+      {
+        "x": 16,
+        "y": 535.40625,
+        "width": 288,
+        "height": 135,
+        "right": 304,
+        "bottom": 670.40625
+      },
+      {
+        "x": 16,
+        "y": 706.40625,
+        "width": 288,
+        "height": 99,
+        "right": 304,
+        "bottom": 805.40625
+      }
+    ],
+    "newsletter": {
+      "x": 16,
+      "y": 845.40625,
+      "width": 288,
+      "height": 45,
+      "right": 304,
+      "bottom": 890.40625
+    },
+    "overlap": {
+      "width": 288,
+      "height": 0
+    }
+  }
+]

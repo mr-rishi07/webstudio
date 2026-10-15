@@ -1,0 +1,229 @@
+{
+  "source_sha256": "145ccac98a5fb17683a041d86d1ff8d2c8d7809f9902513a3bc1fb23006ea2a8",
+  "artwork": [
+    {
+      "path": "assets-extracted/landing/creativity/perspective-showcase.png",
+      "dimensions": [
+        2020,
+        752
+      ],
+      "format": "PNG",
+      "bytes": 1674848,
+      "alpha": true,
+      "source_bounds": [
+        215,
+        1518,
+        1225,
+        1894
+      ],
+      "scale": 2,
+      "background_for_validation": "white",
+      "validation_roi": [
+        215.0,
+        1518.0,
+        1225.0,
+        1894.0
+      ],
+      "mean_channel_error": 0.03283,
+      "channel_percent_difference_over_2": 0.05734,
+      "maximum_channel_error": 56,
+      "roundtrip_max_premultiplied_channel_difference": 1
+    },
+    {
+      "path": "assets-extracted/landing/customization/editor-illustration.png",
+      "dimensions": [
+        2640,
+        1544
+      ],
+      "format": "PNG",
+      "bytes": 1151369,
+      "alpha": true,
+      "source_bounds": [
+        32,
+        2048,
+        1352,
+        2820
+      ],
+      "scale": 2,
+      "background_for_validation": "black",
+      "validation_roi": [
+        32.0,
+        2163.0,
+        1352.0,
+        2820.0
+      ],
+      "mean_channel_error": 0.0451,
+      "channel_percent_difference_over_2": 0.02623,
+      "maximum_channel_error": 5,
+      "roundtrip_max_premultiplied_channel_difference": 1
+    },
+    {
+      "path": "assets-extracted/landing/global-control/templates-illustration.png",
+      "dimensions": [
+        2680,
+        1570
+      ],
+      "format": "PNG",
+      "bytes": 1057840,
+      "alpha": true,
+      "source_bounds": [
+        50,
+        3195,
+        1390,
+        3980
+      ],
+      "scale": 2,
+      "background_for_validation": "white",
+      "validation_roi": [
+        50.0,
+        3200.0,
+        1390.0,
+        3948.0
+      ],
+      "mean_channel_error": 0.09408,
+      "channel_percent_difference_over_2": 0.00071,
+      "maximum_channel_error": 5,
+      "roundtrip_max_premultiplied_channel_difference": 1
+    },
+    {
+      "path": "assets-extracted/landing/global-control/variables-illustration.png",
+      "dimensions": [
+        2470,
+        1210
+      ],
+      "format": "PNG",
+      "bytes": 358896,
+      "alpha": true,
+      "source_bounds": [
+        95,
+        4140,
+        1330,
+        4745
+      ],
+      "scale": 2,
+      "background_for_validation": "white",
+      "validation_roi": [
+        105.0,
+        4162.0,
+        1320.0,
+        4709.0
+      ],
+      "mean_channel_error": 0.01243,
+      "channel_percent_difference_over_2": 0.06366,
+      "maximum_channel_error": 6,
+      "roundtrip_max_premultiplied_channel_difference": 1
+    },
+    {
+      "path": "assets-extracted/landing/showcase/website-mosaic.png",
+      "dimensions": [
+        2880,
+        988
+      ],
+      "format": "PNG",
+      "bytes": 3377162,
+      "alpha": true,
+      "source_bounds": [
+        0,
+        4907,
+        1440,
+        5401
+      ],
+      "scale": 2,
+      "background_for_validation": "black",
+      "validation_roi": [
+        0.0,
+        4907.0,
+        1440.0,
+        5401.0
+      ],
+      "mean_channel_error": 0.09355,
+      "channel_percent_difference_over_2": 0.03869,
+      "maximum_channel_error": 255,
+      "roundtrip_max_premultiplied_channel_difference": 0
+    }
+  ],
+  "shared_svg": [
+    {
+      "path": "assets-extracted/landing/shared/webstudio-wordmark-light.svg",
+      "viewBox": [
+        94,
+        5558,
+        452,
+        5618
+      ],
+      "bytes": 13572,
+      "path_count": 1,
+      "format": "SVG",
+      "browser_validation": "Rendered successfully in installed headless Chrome; visually compared with PDF paths",
+      "font_dependencies": false,
+      "mean_channel_error": 1.12663,
+      "channel_percent_difference_over_2": 7.47672
+    },
+    {
+      "path": "assets-extracted/landing/shared/social-x.svg",
+      "viewBox": [
+        1237,
+        5860,
+        1259,
+        5882
+      ],
+      "bytes": 628,
+      "path_count": 1,
+      "format": "SVG",
+      "browser_validation": "Rendered successfully in installed headless Chrome; visually compared with PDF paths",
+      "font_dependencies": false,
+      "mean_channel_error": 0.47831,
+      "channel_percent_difference_over_2": 4.98881
+    },
+    {
+      "path": "assets-extracted/landing/shared/social-github.svg",
+      "viewBox": [
+        1281,
+        5860,
+        1303,
+        5882
+      ],
+      "bytes": 2036,
+      "path_count": 1,
+      "format": "SVG",
+      "browser_validation": "Rendered successfully in installed headless Chrome; visually compared with PDF paths",
+      "font_dependencies": false,
+      "mean_channel_error": 0.78697,
+      "channel_percent_difference_over_2": 4.84246
+    },
+    {
+      "path": "assets-extracted/landing/shared/social-discord.svg",
+      "viewBox": [
+        1323,
+        5859,
+        1349,
+        5883
+      ],
+      "bytes": 3567,
+      "path_count": 2,
+      "format": "SVG",
+      "browser_validation": "Rendered successfully in installed headless Chrome; visually compared with PDF paths",
+      "font_dependencies": false,
+      "mean_channel_error": 0.67992,
+      "channel_percent_difference_over_2": 3.53566
+    }
+  ],
+  "preservation_checks": {
+    "references\\Landing page.pdf": true,
+    "assets-extracted\\landing\\hero\\hero-card-babyhush.png": true,
+    "assets-extracted\\landing\\hero\\hero-card-inflatable-illustrations.png": true,
+    "assets-extracted\\landing\\hero\\hero-card-neocultural-couture.png": true,
+    "assets-extracted\\landing\\hero\\hero-card-quiet-technology.png": true,
+    "assets-extracted\\landing\\hero\\hero-card-slice-debit.png": true,
+    "assets-extracted\\landing\\hero\\hero-cards-contact-sheet.png": true
+  },
+  "notes": [
+    "PNG artwork is rendered at 2x; embedded raster detail is not increased.",
+    "Surrounding marketing text and unrelated section backgrounds omitted.",
+    "Variables outer marketing card and copy omitted.",
+    "Mosaic heading and black section background omitted.",
+    "SVGs validated in Chrome only; cross-browser checks remain.",
+    "Small differences include alpha rounding and renderer antialiasing; no claim of pixel-perfect browser fidelity.",
+    "Footer-derived wordmark SVG preserves its source paths; header typography should be checked separately."
+  ]
+}

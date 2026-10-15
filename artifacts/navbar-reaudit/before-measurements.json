@@ -1,0 +1,2962 @@
+[
+  {
+    "viewport": 1440,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 90,
+      "right": 1440,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 33,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 193.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 370.984375,
+        "y": 37,
+        "width": 70,
+        "height": 16,
+        "right": 440.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "AGENCY",
+        "x": 488.984375,
+        "y": 37,
+        "width": 61,
+        "height": 16,
+        "right": 549.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 597.984375,
+        "y": 37,
+        "width": 112,
+        "height": 16,
+        "right": 709.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "PRICING",
+        "x": 757.984375,
+        "y": 37,
+        "width": 63,
+        "height": 16,
+        "right": 820.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 868.984375,
+        "y": 37,
+        "width": 97,
+        "height": 16,
+        "right": 965.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Login",
+        "x": 1143,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 1251,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1263,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 1400,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 33,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 193.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 370.984375,
+        "y": 37,
+        "width": 595,
+        "height": 16,
+        "right": 965.984375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "grid"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 1143,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 1400,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 370.984375,
+        "y": 37,
+        "width": 71.046875,
+        "height": 15,
+        "right": 442.03125
+      },
+      {
+        "label": "AGENCY",
+        "x": 488.984375,
+        "y": 37,
+        "width": 61.265625,
+        "height": 15,
+        "right": 550.25
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 597.984375,
+        "y": 37,
+        "width": 112.3125,
+        "height": 15,
+        "right": 710.296875
+      },
+      {
+        "label": "PRICING",
+        "x": 757.984375,
+        "y": 37,
+        "width": 63.25,
+        "height": 15,
+        "right": 821.234375
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 868.984375,
+        "y": 37,
+        "width": 97.53125,
+        "height": 15,
+        "right": 966.515625
+      },
+      {
+        "label": "Login",
+        "x": 1176.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 1217.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1283.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 1379.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 46.953125
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 47.734375
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 47.6875
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 47.75
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 210.046875
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 1440,
+        "height": 967,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 1057,
+        "width": 1440,
+        "height": 847,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1904,
+        "width": 1440,
+        "height": 1019,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2923,
+        "width": 1440,
+        "height": 1049,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3972,
+        "width": 1440,
+        "height": 853,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1440,
+        "height": 576,
+        "right": 1440,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 90,
+      "right": 1280,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 33,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 193.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 70,
+        "height": 16,
+        "right": 287.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "AGENCY",
+        "x": 335.4375,
+        "y": 37,
+        "width": 61,
+        "height": 16,
+        "right": 396.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 444.4375,
+        "y": 37,
+        "width": 112,
+        "height": 16,
+        "right": 556.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "PRICING",
+        "x": 604.4375,
+        "y": 37,
+        "width": 63,
+        "height": 16,
+        "right": 667.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 715.4375,
+        "y": 37,
+        "width": 97,
+        "height": 16,
+        "right": 812.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Login",
+        "x": 983,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 1091,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1103,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 1240,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 33,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 193.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 217.4375,
+        "y": 37,
+        "width": 595,
+        "height": 16,
+        "right": 812.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "grid"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 983,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 1240,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 71.046875,
+        "height": 15,
+        "right": 288.484375
+      },
+      {
+        "label": "AGENCY",
+        "x": 335.4375,
+        "y": 37,
+        "width": 61.265625,
+        "height": 15,
+        "right": 396.703125
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 444.4375,
+        "y": 37,
+        "width": 112.3125,
+        "height": 15,
+        "right": 556.75
+      },
+      {
+        "label": "PRICING",
+        "x": 604.4375,
+        "y": 37,
+        "width": 63.25,
+        "height": 15,
+        "right": 667.6875
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 715.4375,
+        "y": 37,
+        "width": 97.53125,
+        "height": 15,
+        "right": 812.96875
+      },
+      {
+        "label": "Login",
+        "x": 1016.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 1057.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1123.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 1219.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 46.953125
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 47.734375
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 47.6875
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 47.75
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 203.59375
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 1280,
+        "height": 967,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 1057,
+        "width": 1280,
+        "height": 847,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1904,
+        "width": 1280,
+        "height": 1019,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2923,
+        "width": 1280,
+        "height": 1049,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3972,
+        "width": 1280,
+        "height": 853,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1280,
+        "height": 521.109375,
+        "right": 1280,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 1200,
+    "documentOverflow": 10,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 1200,
+      "height": 90,
+      "right": 1200,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 33,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 193.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 70,
+        "height": 16,
+        "right": 287.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "AGENCY",
+        "x": 327.4375,
+        "y": 37,
+        "width": 61,
+        "height": 16,
+        "right": 388.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 428.4375,
+        "y": 37,
+        "width": 112,
+        "height": 16,
+        "right": 540.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "PRICING",
+        "x": 580.4375,
+        "y": 37,
+        "width": 63,
+        "height": 16,
+        "right": 643.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 683.4375,
+        "y": 37,
+        "width": 97,
+        "height": 16,
+        "right": 780.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Login",
+        "x": 903,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 1011,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1023,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 1160,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 33,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 193.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 217.4375,
+        "y": 37,
+        "width": 563,
+        "height": 16,
+        "right": 780.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "grid"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 903,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 1160,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 71.046875,
+        "height": 15,
+        "right": 288.484375
+      },
+      {
+        "label": "AGENCY",
+        "x": 327.4375,
+        "y": 37,
+        "width": 61.265625,
+        "height": 15,
+        "right": 388.703125
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 428.4375,
+        "y": 37,
+        "width": 112.3125,
+        "height": 15,
+        "right": 540.75
+      },
+      {
+        "label": "PRICING",
+        "x": 580.4375,
+        "y": 37,
+        "width": 63.25,
+        "height": 15,
+        "right": 643.6875
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 683.4375,
+        "y": 37,
+        "width": 97.53125,
+        "height": 15,
+        "right": 780.96875
+      },
+      {
+        "label": "Login",
+        "x": 936.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 977.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 1043.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 1139.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 38.953125
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 39.734375
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 39.6875
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 39.75
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 155.59375
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 1200,
+        "height": 967,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 1057,
+        "width": 1200,
+        "height": 847,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1904,
+        "width": 1200,
+        "height": 1019,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2923,
+        "width": 1200,
+        "height": 1049,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3972,
+        "width": 1200,
+        "height": 853,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1200,
+        "height": 493.65625,
+        "right": 1200,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 1101,
+    "documentOverflow": 8,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 1101,
+      "height": 90,
+      "right": 1101,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 33,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 193.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 70,
+        "height": 16,
+        "right": 287.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "AGENCY",
+        "x": 327.4375,
+        "y": 37,
+        "width": 61,
+        "height": 16,
+        "right": 388.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 428.4375,
+        "y": 37,
+        "width": 112,
+        "height": 16,
+        "right": 540.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "PRICING",
+        "x": 580.4375,
+        "y": 37,
+        "width": 63,
+        "height": 16,
+        "right": 643.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 683.4375,
+        "y": 37,
+        "width": 97,
+        "height": 16,
+        "right": 780.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Login",
+        "x": 804,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 912,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 924,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 1061,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 33,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 193.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 217.4375,
+        "y": 37,
+        "width": 563,
+        "height": 16,
+        "right": 780.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "grid"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 804,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 1061,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 217.4375,
+        "y": 37,
+        "width": 71.046875,
+        "height": 15,
+        "right": 288.484375
+      },
+      {
+        "label": "AGENCY",
+        "x": 327.4375,
+        "y": 37,
+        "width": 61.265625,
+        "height": 15,
+        "right": 388.703125
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 428.4375,
+        "y": 37,
+        "width": 112.3125,
+        "height": 15,
+        "right": 540.75
+      },
+      {
+        "label": "PRICING",
+        "x": 580.4375,
+        "y": 37,
+        "width": 63.25,
+        "height": 15,
+        "right": 643.6875
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 683.4375,
+        "y": 37,
+        "width": 97.53125,
+        "height": 15,
+        "right": 780.96875
+      },
+      {
+        "label": "Login",
+        "x": 837.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 878.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 944.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 1040.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 38.953125
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 39.734375
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 39.6875
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 39.75
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 56.59375
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 1101,
+        "height": 967,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 1057,
+        "width": 1101,
+        "height": 847,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1904,
+        "width": 1101,
+        "height": 1019,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2923,
+        "width": 1101,
+        "height": 1049,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3972,
+        "width": 1101,
+        "height": 853,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1101,
+        "height": 459.703125,
+        "right": 1101,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 1024,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 90,
+      "right": 1024,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 32,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 192.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "Login",
+        "x": 735,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 843,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 855,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 992,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 32,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 192.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 735,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 992,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "Login",
+        "x": 768.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 809.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 875.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 971.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 0
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 0
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 0
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 0
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 768.5625
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 1024,
+        "height": 810,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 900,
+        "width": 1024,
+        "height": 760,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1660,
+        "width": 1024,
+        "height": 850,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2510,
+        "width": 1024,
+        "height": 860,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3370,
+        "width": 1024,
+        "height": 764.4375,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4134.4375,
+        "width": 1024,
+        "height": 433.28125,
+        "right": 1024,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 768,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 90,
+      "right": 768,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 32,
+        "y": 30.3125,
+        "width": 160.4375,
+        "height": 26.875,
+        "right": 192.4375,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "Login",
+        "x": 479,
+        "y": 25,
+        "width": 108,
+        "height": 40,
+        "right": 587,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 599,
+        "y": 25,
+        "width": 137,
+        "height": 40,
+        "right": 736,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 32,
+      "y": 31.5625,
+      "width": 160.4375,
+      "height": 26.875,
+      "right": 192.4375,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 479,
+        "y": 25,
+        "width": 257,
+        "height": 40,
+        "right": 736,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "Login",
+        "x": 512.5625,
+        "y": 37,
+        "width": 40.859375,
+        "height": 15,
+        "right": 553.421875
+      },
+      {
+        "label": "GET STARTED",
+        "x": 619.265625,
+        "y": 37,
+        "width": 96.46875,
+        "height": 15,
+        "right": 715.734375
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 0
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 0
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 0
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 0
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 512.5625
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 65.84375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 90,
+        "width": 768,
+        "height": 810,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 900,
+        "width": 768,
+        "height": 750,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1650,
+        "width": 768,
+        "height": 850,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2500,
+        "width": 768,
+        "height": 840,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 3340,
+        "width": 768,
+        "height": 702.03125,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4042.03125,
+        "width": 768,
+        "height": 345.453125,
+        "right": 768,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 390,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "right": 390,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 20,
+        "y": 23.359375,
+        "width": 136,
+        "height": 22.78125,
+        "right": 156,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "Login",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 246,
+        "y": 17,
+        "width": 124,
+        "height": 38,
+        "right": 370,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "11px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 20,
+      "y": 24.609375,
+      "width": 136,
+      "height": 22.78125,
+      "right": 156,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 246,
+        "y": 17,
+        "width": 124,
+        "height": 38,
+        "right": 370,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "Login",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "GET STARTED",
+        "x": 263.234375,
+        "y": 29,
+        "width": 89.53125,
+        "height": 14,
+        "right": 352.765625
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 0
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 0
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 0
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 0
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 0
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 263.234375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 72,
+        "width": 390,
+        "height": 664,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 736,
+        "width": 390,
+        "height": 620,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1356,
+        "width": 390,
+        "height": 650,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2006,
+        "width": 390,
+        "height": 650,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 2656,
+        "width": 390,
+        "height": 539.53125,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 3195.53125,
+        "width": 390,
+        "height": 191.78125,
+        "right": 390,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "documentOverflow": 0,
+    "headerOverflow": 0,
+    "header": {
+      "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDERLoginGET STARTED",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 72,
+      "right": 320,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "block"
+    },
+    "elements": [
+      {
+        "label": "WebStudio",
+        "x": 16,
+        "y": 24.03125,
+        "width": 128,
+        "height": 21.4375,
+        "right": 144,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.25)",
+        "display": "block"
+      },
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "inline"
+      },
+      {
+        "label": "Login",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "GET STARTED",
+        "x": 188,
+        "y": 17,
+        "width": 116,
+        "height": 38,
+        "right": 304,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "11px",
+        "fontWeight": "700",
+        "spacing": "1.2px",
+        "lineHeight": "16px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "brand": {
+      "x": 16,
+      "y": 25.28125,
+      "width": 128,
+      "height": 21.4375,
+      "right": 144,
+      "font": "sora, \"sora Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "spacing": "normal",
+      "lineHeight": "24px",
+      "transform": "none",
+      "display": "flex"
+    },
+    "groups": [
+      {
+        "label": "PRODUCTAGENCYENTER PRISINGPRICINGWEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "none"
+      },
+      {
+        "label": "LoginGET STARTED",
+        "x": 188,
+        "y": 17,
+        "width": 116,
+        "height": 38,
+        "right": 304,
+        "font": "sora, \"sora Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "flex"
+      }
+    ],
+    "labels": [
+      {
+        "label": "PRODUCT",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "AGENCY",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "ENTER PRISING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "PRICING",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "WEB BUILDER",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "Login",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "right": 0
+      },
+      {
+        "label": "GET STARTED",
+        "x": 201.234375,
+        "y": 29,
+        "width": 89.53125,
+        "height": 14,
+        "right": 290.765625
+      }
+    ],
+    "gaps": [
+      {
+        "from": "PRODUCT",
+        "to": "AGENCY",
+        "gap": 0
+      },
+      {
+        "from": "AGENCY",
+        "to": "ENTER PRISING",
+        "gap": 0
+      },
+      {
+        "from": "ENTER PRISING",
+        "to": "PRICING",
+        "gap": 0
+      },
+      {
+        "from": "PRICING",
+        "to": "WEB BUILDER",
+        "gap": 0
+      },
+      {
+        "from": "WEB BUILDER",
+        "to": "Login",
+        "gap": 0
+      },
+      {
+        "from": "Login",
+        "to": "GET STARTED",
+        "gap": 201.234375
+      }
+    ],
+    "otherSections": [
+      {
+        "label": "Make Collaboration Part of YourCreative WorkflowWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.GET STARTED",
+        "x": 0,
+        "y": 72,
+        "width": 320,
+        "height": 664,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Explore creativity. Share yourvision.Build your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.Book demo",
+        "x": 0,
+        "y": 736,
+        "width": 320,
+        "height": 620,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Your Vision,Fully CustomizedA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.Explore All Blocks",
+        "x": 0,
+        "y": 1356,
+        "width": 320,
+        "height": 650,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "The smarter way to build digitalexperiencesEnjoy global control with customizable, dynamic website templatesLearn More",
+        "x": 0,
+        "y": 2006,
+        "width": 320,
+        "height": 650,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Assign and manage global variables across your websiteGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.Learn MoreVariable Generator",
+        "x": 0,
+        "y": 2656,
+        "width": 320,
+        "height": 579.15625,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 3235.15625,
+        "width": 320,
+        "height": 164.765625,
+        "right": 320,
+        "font": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "spacing": "normal",
+        "lineHeight": "24px",
+        "transform": "none",
+        "display": "block"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3076 @@
+[
+  {
+    "viewport": 1440,
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "pageHeight": 6025,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 90,
+        "right": 1440,
+        "bottom": 90
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 90,
+        "width": 1440,
+        "height": 967,
+        "right": 1440,
+        "bottom": 1057
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 1057,
+        "width": 1440,
+        "height": 847,
+        "right": 1440,
+        "bottom": 1904
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1904,
+        "width": 1440,
+        "height": 1019,
+        "right": 1440,
+        "bottom": 2923
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2923,
+        "width": 1440,
+        "height": 1049,
+        "right": 1440,
+        "bottom": 3972
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3972,
+        "width": 1440,
+        "height": 853,
+        "right": 1440,
+        "bottom": 4825
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1440,
+        "height": 576,
+        "right": 1440,
+        "bottom": 5401
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 5401,
+        "width": 1440,
+        "height": 624,
+        "right": 1440,
+        "bottom": 6025
+      }
+    ],
+    "clipped": [
+      {
+        "section": "The smarter way to build digitalexperiences",
+        "tag": "IMG",
+        "text": "Global templates interface with template cards, settings dialogs, and ",
+        "rect": {
+          "x": 50,
+          "y": 3195,
+          "width": 1340,
+          "height": 785,
+          "right": 1390,
+          "bottom": 3980
+        }
+      }
+    ],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nPRODUCT\nAGENCY\nENTER PRISING\nPRICING\nWEB BUILDER\nLogin\nGET STARTED\nMake Collaboration Part of Your\nCreative Workflow\n\nWe engineer high-end web experiences that transcend traditional\nboundaries. Combining abstract geometry with precise custom\ncode to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually.\nBuild and publish pages with Webprofessional visual editor,\nno code required. Govern brand consistency across your\nsite with one centralized design system created manually or\nwith AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision.\nMix, match,\nand customize every element to create stunning interface experiences —\nno code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic\nwebsite templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for\ntechnical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 2,
+          "timestamp": 1792002041269.421,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 2,
+          "timestamp": 1792002041409.616,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "warning",
+          "args": [
+            {
+              "type": "string",
+              "value": "Image with src \"/images/landing/showcase/website-mosaic.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"
+            }
+          ],
+          "executionContextId": 2,
+          "timestamp": 1792002042425.063,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "warn",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "warnOnce",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 4147,
+                "columnNumber": 20
+              },
+              {
+                "functionName": "",
+                "scriptId": "20",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_1tj2jgs1-zfpx._.js",
+                "lineNumber": 1235,
+                "columnNumber": 24
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "viewport": 1280,
+    "clientWidth": 1280,
+    "scrollWidth": 1280,
+    "pageHeight": 5970,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 90,
+        "right": 1280,
+        "bottom": 90
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 90,
+        "width": 1280,
+        "height": 967,
+        "right": 1280,
+        "bottom": 1057
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 1057,
+        "width": 1280,
+        "height": 847,
+        "right": 1280,
+        "bottom": 1904
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1904,
+        "width": 1280,
+        "height": 1019,
+        "right": 1280,
+        "bottom": 2923
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2923,
+        "width": 1280,
+        "height": 1049,
+        "right": 1280,
+        "bottom": 3972
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3972,
+        "width": 1280,
+        "height": 853,
+        "right": 1280,
+        "bottom": 4825
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4825,
+        "width": 1280,
+        "height": 521.109375,
+        "right": 1280,
+        "bottom": 5346.109375
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 5346.109375,
+        "width": 1280,
+        "height": 624,
+        "right": 1280,
+        "bottom": 5970.109375
+      }
+    ],
+    "clipped": [],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nPRODUCT\nAGENCY\nENTER PRISING\nPRICING\nWEB BUILDER\nLogin\nGET STARTED\nMake Collaboration Part of Your\nCreative Workflow\n\nWe engineer high-end web experiences that transcend traditional\nboundaries. Combining abstract geometry with precise custom\ncode to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually.\nBuild and publish pages with Webprofessional visual editor,\nno code required. Govern brand consistency across your\nsite with one centralized design system created manually or\nwith AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision.\nMix, match,\nand customize every element to create stunning interface experiences —\nno code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic\nwebsite templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for\ntechnical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 3,
+          "timestamp": 1792002044373.867,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 3,
+          "timestamp": 1792002044410.347,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "warning",
+          "args": [
+            {
+              "type": "string",
+              "value": "Image with src \"/images/landing/showcase/website-mosaic.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"
+            }
+          ],
+          "executionContextId": 3,
+          "timestamp": 1792002045808.935,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "warn",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "warnOnce",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 4147,
+                "columnNumber": 20
+              },
+              {
+                "functionName": "",
+                "scriptId": "20",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_1tj2jgs1-zfpx._.js",
+                "lineNumber": 1235,
+                "columnNumber": 24
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "viewport": 1024,
+    "clientWidth": 1024,
+    "scrollWidth": 1024,
+    "pageHeight": 5213,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 90,
+        "right": 1024,
+        "bottom": 90
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 90,
+        "width": 1024,
+        "height": 810,
+        "right": 1024,
+        "bottom": 900
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 900,
+        "width": 1024,
+        "height": 760,
+        "right": 1024,
+        "bottom": 1660
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1660,
+        "width": 1024,
+        "height": 850,
+        "right": 1024,
+        "bottom": 2510
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2510,
+        "width": 1024,
+        "height": 860,
+        "right": 1024,
+        "bottom": 3370
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3370,
+        "width": 1024,
+        "height": 785.4375,
+        "right": 1024,
+        "bottom": 4155.4375
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4155.4375,
+        "width": 1024,
+        "height": 433.28125,
+        "right": 1024,
+        "bottom": 4588.71875
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 4588.71875,
+        "width": 1024,
+        "height": 624,
+        "right": 1024,
+        "bottom": 5212.71875
+      }
+    ],
+    "clipped": [],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nLogin\nGET STARTED\nMake Collaboration Part of Your\nCreative Workflow\n\nWe engineer high-end web experiences that transcend traditional\nboundaries. Combining abstract geometry with precise custom\ncode to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually.\nBuild and publish pages with Webprofessional visual editor,\nno code required. Govern brand consistency across your\nsite with one centralized design system created manually or\nwith AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic website templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for\ntechnical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 4,
+          "timestamp": 1792002047786.788,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 4,
+          "timestamp": 1792002047830.127,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "viewport": 768,
+    "clientWidth": 768,
+    "scrollWidth": 768,
+    "pageHeight": 5207,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 90,
+        "right": 768,
+        "bottom": 90
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 90,
+        "width": 768,
+        "height": 810,
+        "right": 768,
+        "bottom": 900
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 900,
+        "width": 768,
+        "height": 750,
+        "right": 768,
+        "bottom": 1650
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1650,
+        "width": 768,
+        "height": 850,
+        "right": 768,
+        "bottom": 2500
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2500,
+        "width": 768,
+        "height": 840,
+        "right": 768,
+        "bottom": 3340
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3340,
+        "width": 768,
+        "height": 699.03125,
+        "right": 768,
+        "bottom": 4039.03125
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 4039.03125,
+        "width": 768,
+        "height": 345.453125,
+        "right": 768,
+        "bottom": 4384.484375
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 4384.484375,
+        "width": 768,
+        "height": 823,
+        "right": 768,
+        "bottom": 5207.484375
+      }
+    ],
+    "clipped": [],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nLogin\nGET STARTED\nMake Collaboration Part of Your\nCreative Workflow\n\nWe engineer high-end web experiences that transcend traditional\nboundaries. Combining abstract geometry with precise custom\ncode to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually.\nBuild and publish pages with Webprofessional visual editor,\nno code required. Govern brand consistency across your\nsite with one centralized design system created manually or\nwith AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic website templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for\ntechnical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 5,
+          "timestamp": 1792002050919.449,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 5,
+          "timestamp": 1792002050952.21,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "viewport": 390,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "pageHeight": 4847,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 72,
+        "right": 390,
+        "bottom": 72
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 72,
+        "width": 390,
+        "height": 1114.125,
+        "right": 390,
+        "bottom": 1186.125
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 1186.125,
+        "width": 390,
+        "height": 620,
+        "right": 390,
+        "bottom": 1806.125
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1806.125,
+        "width": 390,
+        "height": 650,
+        "right": 390,
+        "bottom": 2456.125
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2456.125,
+        "width": 390,
+        "height": 650,
+        "right": 390,
+        "bottom": 3106.125
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3106.125,
+        "width": 390,
+        "height": 539.53125,
+        "right": 390,
+        "bottom": 3645.65625
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 3645.65625,
+        "width": 390,
+        "height": 191.78125,
+        "right": 390,
+        "bottom": 3837.4375
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 3837.4375,
+        "width": 390,
+        "height": 1010,
+        "right": 390,
+        "bottom": 4847.4375
+      }
+    ],
+    "clipped": [],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nGET STARTED\nMake Collaboration Part of Your Creative Workflow\n\nWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic website templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for technical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 6,
+          "timestamp": 1792002053948.091,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 6,
+          "timestamp": 1792002053980.392,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "viewport": 320,
+    "clientWidth": 320,
+    "scrollWidth": 320,
+    "pageHeight": 4865,
+    "sections": [
+      {
+        "label": "Navbar",
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 72,
+        "right": 320,
+        "bottom": 72
+      },
+      {
+        "label": "Make Collaboration Part of Your Creative Workflow",
+        "x": 0,
+        "y": 72,
+        "width": 320,
+        "height": 1108.21875,
+        "right": 320,
+        "bottom": 1180.21875
+      },
+      {
+        "label": "Explore creativity. Share yourvision.",
+        "x": 0,
+        "y": 1180.21875,
+        "width": 320,
+        "height": 620,
+        "right": 320,
+        "bottom": 1800.21875
+      },
+      {
+        "label": "Your Vision,Fully Customized",
+        "x": 0,
+        "y": 1800.21875,
+        "width": 320,
+        "height": 650,
+        "right": 320,
+        "bottom": 2450.21875
+      },
+      {
+        "label": "The smarter way to build digitalexperiences",
+        "x": 0,
+        "y": 2450.21875,
+        "width": 320,
+        "height": 650,
+        "right": 320,
+        "bottom": 3100.21875
+      },
+      {
+        "label": "Assign and manage global variables across your website",
+        "x": 0,
+        "y": 3100.21875,
+        "width": 320,
+        "height": 579.15625,
+        "right": 320,
+        "bottom": 3679.375
+      },
+      {
+        "label": "Build with web studio",
+        "x": 0,
+        "y": 3679.375,
+        "width": 320,
+        "height": 164.765625,
+        "right": 320,
+        "bottom": 3844.140625
+      },
+      {
+        "label": "Footer",
+        "x": 0,
+        "y": 3844.140625,
+        "width": 320,
+        "height": 1021.265625,
+        "right": 320,
+        "bottom": 4865.40625
+      }
+    ],
+    "clipped": [],
+    "brokenImages": [],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "web studio",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "disabled": false,
+        "ariaDisabled": "true"
+      }
+    ],
+    "links": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "bodyText": "web studio\nGET STARTED\nMake Collaboration Part of Your Creative Workflow\n\nWe engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.\n\nGET STARTED\nExplore creativity. Share your\nvision.\n\nBuild your entire web presence, visually. Build and publish pages with Webprofessional visual editor, no code required. Govern brand consistency across your site with one centralized design system created manually or with AI.\n\nBook demo\nYour Vision,\nFully Customized\n\nA versatile collection of blocks to help you design the canvas you envision. Mix, match, and customize every element to create stunning interface experiences — no code required.\n\nExplore All Blocks\nThe smarter way to build digital\nexperiences\n\nEnjoy global control with customizable, dynamic website templates\n\nLearn More\nAssign and manage global variables across your website\n\nGenerate and define global colors, numbers, images, and more for design consistency and speed like never before.\n\nLearn More\nVariable Generator\nBuild with web studio\n\nAdvancing the protocol layer. Join our network for technical updates and architecture proposals.\n\nPRODUCT\nArchitecture\nProtocol\nGovernance\nSecurity\nAGENCY\nAbout\nCareers\nBlog\nPRICING\nTerms\nPrivacy\nEmail address\nJOIN\n\n© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED.",
+    "metadata": {
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website."
+    },
+    "consoleEvents": [
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "info",
+          "args": [
+            {
+              "type": "string",
+              "value": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools"
+            },
+            {
+              "type": "string",
+              "value": "font-weight:bold"
+            }
+          ],
+          "executionContextId": 7,
+          "timestamp": 1792002056775.658,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "info",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16718,
+                "columnNumber": 53
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "4",
+                "url": "http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js",
+                "lineNumber": 16755,
+                "columnNumber": 1
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "9",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_react-dom_0grqycjrj6mju._.js",
+                "lineNumber": 32,
+                "columnNumber": 43
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 224,
+                "columnNumber": 79
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateModuleFromParent",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1922,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "commonJsRequire",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 494,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 601,
+                "columnNumber": 46
+              },
+              {
+                "functionName": "",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 93,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "loadScriptsInSequence",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 57,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "appBootstrap",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 86,
+                "columnNumber": 4
+              },
+              {
+                "functionName": "module evaluation",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 600,
+                "columnNumber": 31
+              },
+              {
+                "functionName": "",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1624,
+                "columnNumber": 26
+              },
+              {
+                "functionName": "runModuleExecutionHooks",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1954,
+                "columnNumber": 12
+              },
+              {
+                "functionName": "instantiateModuleShared",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1622,
+                "columnNumber": 8
+              },
+              {
+                "functionName": "instantiateModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1939,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "getOrInstantiateRuntimeModule",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 1900,
+                "columnNumber": 11
+              },
+              {
+                "functionName": "registerChunk",
+                "scriptId": "18",
+                "url": "http://localhost:3000/_next/static/chunks/turbopack-_06rkbud3pyrlm._.js",
+                "lineNumber": 2315,
+                "columnNumber": 20
+              }
+            ]
+          }
+        }
+      },
+      {
+        "method": "Runtime.consoleAPICalled",
+        "params": {
+          "type": "log",
+          "args": [
+            {
+              "type": "string",
+              "value": "[HMR] connected"
+            }
+          ],
+          "executionContextId": 7,
+          "timestamp": 1792002056805.967,
+          "stackTrace": {
+            "callFrames": [
+              {
+                "functionName": "log",
+                "scriptId": "14",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js",
+                "lineNumber": 719,
+                "columnNumber": 27
+              },
+              {
+                "functionName": "handleOnline",
+                "scriptId": "13",
+                "url": "http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js",
+                "lineNumber": 16231,
+                "columnNumber": 27
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+]

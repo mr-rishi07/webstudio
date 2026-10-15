@@ -1,0 +1,229 @@
+.hero {
+  position: relative;
+  height: 967px;
+  padding-top: 63px;
+  overflow: clip;
+  border-radius: 0 0 50px 50px;
+  background:
+    linear-gradient(180deg, #010101 0%, #9333ea 50.961536%, #a78bfa 100%)
+      0 60px / 100% calc(100% - 60px) no-repeat,
+    #010101;
+  box-shadow: 0 12px 114.6px rgb(124 58 237 / 50%);
+  /* The Figma frame includes the Navbar; keep this separate Hero's glow below it. */
+  clip-path: inset(0 -100vmax -100vmax);
+  color: var(--color-text-inverse);
+  font-family: var(--font-hero-inter), sans-serif;
+  font-optical-sizing: none;
+}
+
+.copy {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(810px, calc(100% - 48px));
+  height: 300px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.heading {
+  width: min(748.455688px, 100%);
+  margin: 0;
+  /* Approved SF Pro fallback, selected by comparison with the Figma text render. */
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 57px;
+  letter-spacing: -1.6px;
+}
+
+.heading span {
+  display: block;
+}
+
+.description {
+  width: 100%;
+  min-height: 98px;
+  margin: 20px 0 0;
+  color: #adadad;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32.5px;
+  letter-spacing: 0;
+}
+
+.cta {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 137px;
+  height: 40px;
+  margin-top: 13px;
+  border-radius: 8px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 1.2px;
+  text-decoration: none;
+}
+
+.cta span {
+  width: 96px;
+  text-align: left;
+}
+
+.cta:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+/* Figma coordinates normalized to the 1440px canvas; height includes the outer cards. */
+.cards {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  aspect-ratio: 1440 / 530.019455;
+  margin-top: 21px;
+}
+
+.card {
+  position: absolute;
+  width: calc(310 / 1440 * 100%);
+  height: calc(385 / 530.019455 * 100%);
+  object-fit: cover;
+  object-position: center;
+  box-shadow: 0 4px 40px rgb(0 0 0 / 50%);
+}
+
+.quietTechnology {
+  z-index: 5;
+  top: calc(145.019455 / 530.019455 * 100%);
+  left: calc(47.184387 / 1440 * 100%);
+}
+
+.sliceDebit {
+  z-index: 4;
+  top: calc(37.276894 / 530.019455 * 100%);
+  left: calc(298.194977 / 1440 * 100%);
+}
+
+.babyHush {
+  z-index: 3;
+  top: 0;
+  left: calc(565 / 1440 * 100%);
+  height: calc(384.862518 / 530.019455 * 100%);
+}
+
+.neoCultural {
+  z-index: 2;
+  top: calc(37.411625 / 530.019455 * 100%);
+  left: calc(831.725555 / 1440 * 100%);
+  height: calc(384 / 530.019455 * 100%);
+}
+
+.inflatable {
+  z-index: 1;
+  top: calc(145.019455 / 530.019455 * 100%);
+  left: calc(1082.815735 / 1440 * 100%);
+}
+
+@media (max-width: 1100px) {
+  .hero {
+    height: 810px;
+    padding-top: 60px;
+  }
+
+  .copy {
+    height: auto;
+  }
+
+  .heading {
+    font-size: 44px;
+    line-height: 52px;
+  }
+
+  .description {
+    min-height: 0;
+    margin-top: 24px;
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  .cards {
+    margin-top: 36px;
+  }
+}
+
+/* No approved mobile frame: keep all five previews visible in a centered grid. */
+@media (max-width: 767px) {
+  .hero {
+    height: auto;
+    padding-block: 46px 40px;
+    border-radius: 0 0 32px 32px;
+  }
+
+  .heading {
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: -1px;
+  }
+
+  .heading span {
+    display: inline;
+  }
+
+  .description {
+    max-width: 540px;
+    margin-top: 22px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .desktopBreak {
+    display: none;
+  }
+
+  .cta {
+    margin-top: 18px;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
+    gap: 20px;
+    width: min(580px, calc(100% - 48px));
+    aspect-ratio: auto;
+    margin: 36px auto 0;
+  }
+
+  .card {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  .babyHush {
+    order: -1;
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: min(250px, 100%);
+  }
+}
+
+@media (max-width: 480px) {
+  .heading {
+    font-size: 29px;
+    line-height: 35px;
+  }
+
+  .description {
+    font-size: 15px;
+    line-height: 23px;
+  }
+}

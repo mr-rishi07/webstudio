@@ -1,0 +1,12 @@
+[
+    {
+        "Phase":  "before",
+        "MeanAbsoluteChannelError":  1.8744753086419752,
+        "ChangedPixels":  4067
+    },
+    {
+        "Phase":  "after",
+        "MeanAbsoluteChannelError":  1.3553060699588477,
+        "ChangedPixels":  4061
+    }
+]

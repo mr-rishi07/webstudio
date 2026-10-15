@@ -1,0 +1,1636 @@
+{
+  "origin": {
+    "x": 21836,
+    "y": -4008,
+    "width": 1440,
+    "height": 1057
+  },
+  "nodes": [
+    {
+      "id": "273:2782",
+      "name": "Frame 1435",
+      "type": "FRAME",
+      "parent": "273:2781",
+      "order": 0,
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1057
+      },
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 1057,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.003921568859368563,
+            "g": 0.003921568859368563,
+            "b": 0.003921568859368563
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 114.5999984741211,
+          "boundVariables": {},
+          "color": {
+            "r": 0.48627451062202454,
+            "g": 0.22745098173618317,
+            "b": 0.929411768913269,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 12
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 50,
+      "bottomRightRadius": 50,
+      "layoutMode": "NONE",
+      "itemSpacing": 449,
+      "primaryAxisAlignItems": "SPACE_BETWEEN",
+      "counterAxisAlignItems": "CENTER",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2784",
+      "name": "Rectangle 41",
+      "type": "RECTANGLE",
+      "parent": "273:2782",
+      "order": 1,
+      "bounds": {
+        "x": 0,
+        "y": 150,
+        "width": 1440,
+        "height": 907
+      },
+      "x": 0,
+      "y": 150,
+      "width": 1440,
+      "height": 907,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          150
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "fills": [
+        {
+          "type": "GRADIENT_LINEAR",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "gradientStops": [
+            {
+              "color": {
+                "r": 0.003921568859368563,
+                "g": 0.003921568859368563,
+                "b": 0.003921568859368563,
+                "a": 1
+              },
+              "position": 0,
+              "boundVariables": {}
+            },
+            {
+              "color": {
+                "r": 0.5764706134796143,
+                "g": 0.20000000298023224,
+                "b": 0.9176470637321472,
+                "a": 1
+              },
+              "position": 0.5096153616905212,
+              "boundVariables": {}
+            },
+            {
+              "color": {
+                "r": 0.6549019813537598,
+                "g": 0.545098066329956,
+                "b": 0.9803921580314636,
+                "a": 1
+              },
+              "position": 1,
+              "boundVariables": {}
+            }
+          ],
+          "gradientTransform": [
+            [
+              6.123234262925839e-17,
+              1,
+              0
+            ],
+            [
+              -1,
+              6.123234262925839e-17,
+              1
+            ]
+          ]
+        }
+      ],
+      "effects": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 50,
+      "bottomRightRadius": 50
+    },
+    {
+      "id": "273:2785",
+      "name": "Frame 1",
+      "type": "FRAME",
+      "parent": "273:2782",
+      "order": 2,
+      "bounds": {
+        "x": 315,
+        "y": 153,
+        "width": 810,
+        "height": 300
+      },
+      "x": 315,
+      "y": 153,
+      "width": 810,
+      "height": 300,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          315
+        ],
+        [
+          0,
+          1,
+          153
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 20,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "CENTER",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2786",
+      "name": "Make Collaboration Part of Your Creative Workflow",
+      "type": "TEXT",
+      "parent": "273:2785",
+      "order": 0,
+      "bounds": {
+        "x": 345.771484375,
+        "y": 153,
+        "width": 748.4556884765625,
+        "height": 114
+      },
+      "x": 30.77215576171875,
+      "y": 0,
+      "width": 748.4556884765625,
+      "height": 114,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          30.77215576171875
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [],
+      "characters": "Make Collaboration Part of Your Creative Workflow",
+      "fontName": {
+        "family": "SF Pro",
+        "style": "Medium",
+        "variationSettings": {
+          "wght": 510,
+          "wdth": 100
+        }
+      },
+      "fontWeight": 510,
+      "fontSize": 48,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -1.600000023841858
+      },
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "CENTER",
+      "textAutoResize": "HEIGHT",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "273:2787",
+      "name": "Frame 10",
+      "type": "FRAME",
+      "parent": "273:2785",
+      "order": 1,
+      "bounds": {
+        "x": 315,
+        "y": 287,
+        "width": 810,
+        "height": 166
+      },
+      "x": 0,
+      "y": 134,
+      "width": 810,
+      "height": 166,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          134
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 15,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "CENTER",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2788",
+      "name": "We engineer high-end web experiences that transcend traditional boundaries. Combining abstract geometry with precise custom code to build immersive brand environments.",
+      "type": "TEXT",
+      "parent": "273:2787",
+      "order": 0,
+      "bounds": {
+        "x": 315,
+        "y": 287,
+        "width": 810,
+        "height": 98
+      },
+      "x": 0,
+      "y": 0,
+      "width": 810,
+      "height": 98,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.6794871687889099,
+            "g": 0.6794871687889099,
+            "b": 0.6794871687889099
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [],
+      "characters": "We engineer high-end web experiences that transcend traditional\nboundaries. Combining abstract geometry with precise custom\ncode to build immersive brand environments.",
+      "fontName": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400
+        }
+      },
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 32.5
+      },
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "CENTER",
+      "textAutoResize": "HEIGHT",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "273:2789",
+      "name": "Actions",
+      "type": "FRAME",
+      "parent": "273:2787",
+      "order": 1,
+      "bounds": {
+        "x": 652.5,
+        "y": 400,
+        "width": 135,
+        "height": 36
+      },
+      "x": 337.5,
+      "y": 113,
+      "width": 135,
+      "height": 36,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          337.5
+        ],
+        [
+          0,
+          1,
+          113
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 24,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 8,
+      "paddingBottom": 8
+    },
+    {
+      "id": "273:2790",
+      "name": "Link",
+      "type": "FRAME",
+      "parent": "273:2789",
+      "order": 0,
+      "bounds": {
+        "x": 651.5,
+        "y": 398,
+        "width": 137,
+        "height": 40
+      },
+      "x": -1,
+      "y": -2,
+      "width": 137,
+      "height": 40,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          -2
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 8,
+      "topLeftRadius": 8,
+      "topRightRadius": 8,
+      "bottomLeftRadius": 8,
+      "bottomRightRadius": 8,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "paddingLeft": 32,
+      "paddingRight": 32,
+      "paddingTop": 12,
+      "paddingBottom": 12
+    },
+    {
+      "id": "273:2791",
+      "name": "GET STARTED",
+      "type": "TEXT",
+      "parent": "273:2790",
+      "order": 0,
+      "bounds": {
+        "x": 672,
+        "y": 410,
+        "width": 96,
+        "height": 16
+      },
+      "x": 20.5,
+      "y": 12,
+      "width": 96,
+      "height": 16,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          20.5
+        ],
+        [
+          0,
+          1,
+          12
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [],
+      "characters": "GET STARTED",
+      "fontName": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "fontWeight": 400,
+      "fontSize": 12,
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      },
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 1.2000000476837158
+      },
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "CENTER",
+      "textAutoResize": "HEIGHT",
+      "paragraphSpacing": 0
+    },
+    {
+      "id": "273:2792",
+      "name": "Section:margin",
+      "type": "FRAME",
+      "parent": "273:2782",
+      "order": 3,
+      "bounds": {
+        "x": 32,
+        "y": 474,
+        "width": 1376,
+        "height": 400
+      },
+      "x": 32,
+      "y": 474,
+      "width": 1376,
+      "height": 400,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          32
+        ],
+        [
+          0,
+          1,
+          474
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2793",
+      "name": "Section",
+      "type": "FRAME",
+      "parent": "273:2792",
+      "order": 0,
+      "bounds": {
+        "x": -48,
+        "y": 474,
+        "width": 1536,
+        "height": 400
+      },
+      "x": -80,
+      "y": 0,
+      "width": 1536,
+      "height": 400,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          -80
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2794",
+      "name": "List",
+      "type": "FRAME",
+      "parent": "273:2793",
+      "order": 0,
+      "bounds": {
+        "x": 565,
+        "y": 474,
+        "width": 310,
+        "height": 400
+      },
+      "x": 613,
+      "y": 0,
+      "width": 310,
+      "height": 400,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          613
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2795",
+      "name": "List Item",
+      "type": "FRAME",
+      "parent": "273:2794",
+      "order": 0,
+      "bounds": {
+        "x": 1082.81640625,
+        "y": 619.01953125,
+        "width": 310,
+        "height": 385
+      },
+      "x": 517.8157348632812,
+      "y": 145.0194549560547,
+      "width": 310,
+      "height": 385,
+      "rotation": 3.1805546814635168e-15,
+      "relativeTransform": [
+        [
+          1,
+          5.551115123125783e-17,
+          517.8157348632812
+        ],
+        [
+          -5.551115123125783e-17,
+          1,
+          145.0194549560547
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 0.000009999999747378752,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 40,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2796",
+      "name": "Image (Card image)",
+      "type": "FRAME",
+      "parent": "273:2795",
+      "order": 0,
+      "bounds": {
+        "x": 1082.81640625,
+        "y": 619.01953125,
+        "width": 310,
+        "height": 385
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 385,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "1ec8c8b56872cd37ed572a0e385f72777496ccbc"
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2797",
+      "name": "List Item",
+      "type": "FRAME",
+      "parent": "273:2794",
+      "order": 1,
+      "bounds": {
+        "x": 831.724609375,
+        "y": 511.41162109375,
+        "width": 310,
+        "height": 384
+      },
+      "x": 266.7255554199219,
+      "y": 37.411624908447266,
+      "width": 310,
+      "height": 384,
+      "rotation": 1.5902773407317584e-15,
+      "relativeTransform": [
+        [
+          1,
+          2.7755575615628914e-17,
+          266.7255554199219
+        ],
+        [
+          -2.7755575615628914e-17,
+          1,
+          37.411624908447266
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 0.000009999999747378752,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 40,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2798",
+      "name": "Image (Card image)",
+      "type": "FRAME",
+      "parent": "273:2797",
+      "order": 0,
+      "bounds": {
+        "x": 831.724609375,
+        "y": 511.41162109375,
+        "width": 310,
+        "height": 384
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 384,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "fae6b5c377bebc8b26f1d7cd627d25895ba31ded"
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2799",
+      "name": "List Item",
+      "type": "FRAME",
+      "parent": "273:2794",
+      "order": 2,
+      "bounds": {
+        "x": 565,
+        "y": 474,
+        "width": 310,
+        "height": 384.8625183105469
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 384.8625183105469,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 0.000009999999747378752,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 40,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2800",
+      "name": "Image (Card image)",
+      "type": "FRAME",
+      "parent": "273:2799",
+      "order": 0,
+      "bounds": {
+        "x": 565,
+        "y": 474,
+        "width": 310,
+        "height": 384.8625183105469
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 384.8625183105469,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "d4f75a8a30e9acf60e982322771e7024cd840f72"
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2801",
+      "name": "List Item",
+      "type": "FRAME",
+      "parent": "273:2794",
+      "order": 3,
+      "bounds": {
+        "x": 298.1953125,
+        "y": 511.27685546875,
+        "width": 310,
+        "height": 385
+      },
+      "x": -266.8050231933594,
+      "y": 37.276893615722656,
+      "width": 310,
+      "height": 385,
+      "rotation": -1.5902773407317584e-15,
+      "relativeTransform": [
+        [
+          1,
+          -2.7755575615628914e-17,
+          -266.8050231933594
+        ],
+        [
+          2.7755575615628914e-17,
+          1,
+          37.276893615722656
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 0.000009999999747378752,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 40,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2802",
+      "name": "Image (Card image)",
+      "type": "FRAME",
+      "parent": "273:2801",
+      "order": 0,
+      "bounds": {
+        "x": 298.1953125,
+        "y": 511.27685546875,
+        "width": 310,
+        "height": 385
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 385,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "980eccb8cac9ffcf9d1b978510b041b21a851166"
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2803",
+      "name": "List Item",
+      "type": "FRAME",
+      "parent": "273:2794",
+      "order": 4,
+      "bounds": {
+        "x": 47.18359375,
+        "y": 619.01953125,
+        "width": 310,
+        "height": 385
+      },
+      "x": -517.8156127929688,
+      "y": 145.0194549560547,
+      "width": 310,
+      "height": 385,
+      "rotation": -3.1805546814635168e-15,
+      "relativeTransform": [
+        [
+          1,
+          -5.551115123125783e-17,
+          -517.8156127929688
+        ],
+        [
+          5.551115123125783e-17,
+          1,
+          145.0194549560547
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": false,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 0.000009999999747378752,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "radius": 40,
+          "boundVariables": {},
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.5
+          },
+          "offset": {
+            "x": 0,
+            "y": 4
+          },
+          "spread": 0,
+          "blendMode": "NORMAL",
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "id": "273:2804",
+      "name": "Image (Card image)",
+      "type": "FRAME",
+      "parent": "273:2803",
+      "order": 0,
+      "bounds": {
+        "x": 47.18359375,
+        "y": 619.01953125,
+        "width": 310,
+        "height": 385
+      },
+      "x": 0,
+      "y": 0,
+      "width": 310,
+      "height": 385,
+      "rotation": 0,
+      "relativeTransform": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "opacity": 1,
+      "visible": true,
+      "clipsContent": true,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "FILL",
+          "scalingFactor": 0.5,
+          "rotation": 0,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "imageHash": "da053094d81524b28036e9fedc6b1176d70d65dd"
+        }
+      ],
+      "effects": [],
+      "cornerRadius": 0,
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomLeftRadius": 0,
+      "bottomRightRadius": 0,
+      "layoutMode": "NONE",
+      "itemSpacing": 0,
+      "primaryAxisAlignItems": "MIN",
+      "counterAxisAlignItems": "MIN",
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "pageFills": [
+    {
+      "type": "GRADIENT_RADIAL",
+      "visible": false,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "gradientStops": [
+        {
+          "color": {
+            "r": 0.10588235408067703,
+            "g": 0.23529411852359772,
+            "b": 0.5764706134796143,
+            "a": 1
+          },
+          "position": 0,
+          "boundVariables": {}
+        },
+        {
+          "color": {
+            "r": 0.0313725508749485,
+            "g": 0.08235294371843338,
+            "b": 0.23529411852359772,
+            "a": 1
+          },
+          "position": 1,
+          "boundVariables": {}
+        }
+      ],
+      "gradientTransform": [
+        [
+          6.123234262925839e-17,
+          1,
+          0
+        ],
+        [
+          -1,
+          6.123234262925839e-17,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "boundVariables": {}
+    },
+    {
+      "type": "GRADIENT_RADIAL",
+      "visible": false,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "gradientStops": [
+        {
+          "color": {
+            "r": 0.26274511218070984,
+            "g": 0.22745098173618317,
+            "b": 0.1921568661928177,
+            "a": 1
+          },
+          "position": 0,
+          "boundVariables": {}
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          },
+          "position": 1,
+          "boundVariables": {}
+        }
+      ],
+      "gradientTransform": [
+        [
+          -2.6915279227283245e-16,
+          0.8504983186721802,
+          0.07475083321332932
+        ],
+        [
+          -0.8504983186721802,
+          -2.6915279227283245e-16,
+          0.9252491593360901
+        ]
+      ]
+    }
+  ],
+  "pageEffects": []
+}

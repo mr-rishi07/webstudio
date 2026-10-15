@@ -1,0 +1,211 @@
+.section {
+  position: relative;
+  height: 1019px;
+  overflow: hidden;
+  background: var(--color-surface-inverse);
+  color: var(--color-text-inverse);
+}
+
+.heading {
+  position: absolute;
+  z-index: 2;
+  top: 72px;
+  left: 79px;
+  margin: 0;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: -2.5px;
+  transform: scaleX(1.035);
+  transform-origin: left top;
+}
+
+.heading span {
+  display: block;
+}
+
+.details {
+  position: absolute;
+  z-index: 2;
+  top: 71px;
+  left: 801px;
+}
+
+.description {
+  margin: 0;
+  color: #b7b7b7;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.12px;
+  transform: scaleX(1.06);
+  transform-origin: left top;
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  width: 169px;
+  height: 38px;
+  margin-top: 29px;
+  border-radius: 19px;
+  background: var(--color-accent);
+  color: var(--color-text-inverse);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.cta:focus-visible {
+  outline: 2px solid var(--color-text-inverse);
+  outline-offset: 4px;
+}
+
+.cta span {
+  transform: scaleX(1.08);
+}
+
+.arrow {
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.5;
+}
+
+.artwork {
+  position: absolute;
+  top: 144px;
+  left: 32px;
+  width: 1320px;
+  height: auto;
+}
+
+/* Fit the desktop composition before the existing tablet layout takes over. */
+@media (min-width: 1101px) and (max-width: 1383px) {
+  .section {
+    overflow: visible;
+  }
+
+  .details {
+    left: calc(100% - 639px);
+  }
+
+  .artwork {
+    width: calc(100% - 64px);
+  }
+}
+
+@media (max-width: 1100px) {
+  .section {
+    height: 850px;
+  }
+
+  .heading {
+    top: 58px;
+    left: 48px;
+    font-size: 42px;
+    line-height: 54px;
+    letter-spacing: -2px;
+    transform: none;
+  }
+
+  .details {
+    top: 61px;
+    right: 48px;
+    left: 56%;
+  }
+
+  .description {
+    font-size: 15px;
+    line-height: 24px;
+    transform: none;
+  }
+
+  .desktopBreak {
+    display: none;
+  }
+
+  .cta {
+    margin-top: 24px;
+  }
+
+  .artwork {
+    top: 224px;
+    left: 50%;
+    width: calc(100% - 48px);
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 767px) {
+  .section {
+    height: 820px;
+  }
+
+  .heading {
+    top: 56px;
+    right: 40px;
+    left: 40px;
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .details {
+    top: 178px;
+    right: 40px;
+    left: 40px;
+  }
+
+  .description {
+    max-width: 610px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+  .artwork {
+    top: 384px;
+    width: calc(100% - 24px);
+  }
+}
+
+@media (max-width: 480px) {
+  .section {
+    height: 650px;
+  }
+
+  .heading {
+    top: 48px;
+    right: 24px;
+    left: 24px;
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: -1.35px;
+  }
+
+  .details {
+    top: 142px;
+    right: 24px;
+    left: 24px;
+  }
+
+  .description {
+    font-size: 15px;
+    line-height: 23px;
+  }
+
+  .cta {
+    width: 160px;
+    height: 38px;
+    margin-top: 22px;
+    font-size: 13px;
+  }
+
+  .artwork {
+    top: 373px;
+  }
+}

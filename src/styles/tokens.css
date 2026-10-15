@@ -1,0 +1,23 @@
+:root {
+  color-scheme: light;
+
+  /* Verified from the approved Landing Page PDF. */
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-accent-blue: #0070ff;
+
+  /* Semantic aliases. */
+  --color-surface: var(--color-white);
+  --color-surface-inverse: var(--color-black);
+  --color-text: var(--color-black);
+  --color-text-inverse: var(--color-white);
+  --color-accent: var(--color-accent-blue);
+
+  /* Temporary system fallback until the approved font files are supplied. */
+  --font-sans: Arial, Helvetica, sans-serif;
+  --font-size-body: 1rem;
+  --line-height-body: 1.5;
+
+  --container-max: 90rem;
+  --page-gutter: 2rem;
+}

@@ -1,0 +1,34 @@
+{
+  "navbar": {
+    "mean_channel_difference": 3.788,
+    "different_pixel_percent": 3.715
+  },
+  "hero": {
+    "mean_channel_difference": 5.321,
+    "different_pixel_percent": 68.518
+  },
+  "explore": {
+    "mean_channel_difference": 3.175,
+    "different_pixel_percent": 31.216
+  },
+  "customized": {
+    "mean_channel_difference": 1.877,
+    "different_pixel_percent": 13.381
+  },
+  "templates": {
+    "mean_channel_difference": 2.413,
+    "different_pixel_percent": 20.744
+  },
+  "variables": {
+    "mean_channel_difference": 2.767,
+    "different_pixel_percent": 12.679
+  },
+  "showcase": {
+    "mean_channel_difference": 3.554,
+    "different_pixel_percent": 44.66
+  },
+  "footer": {
+    "mean_channel_difference": 2.495,
+    "different_pixel_percent": 4.885
+  }
+}

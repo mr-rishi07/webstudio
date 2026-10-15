@@ -1,0 +1,22 @@
+[
+    {
+        "MeanAbsoluteChannelError":  43.36519688109162,
+        "Font":  "inter-510"
+    },
+    {
+        "MeanAbsoluteChannelError":  38.622580896686159,
+        "Font":  "arial-400"
+    },
+    {
+        "MeanAbsoluteChannelError":  38.622580896686159,
+        "Font":  "arial-510"
+    },
+    {
+        "MeanAbsoluteChannelError":  42.6846783625731,
+        "Font":  "segoe-510"
+    },
+    {
+        "MeanAbsoluteChannelError":  35.899699805068224,
+        "Font":  "tahoma-400"
+    }
+]

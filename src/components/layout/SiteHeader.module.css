@@ -1,0 +1,198 @@
+.header {
+  width: 100%;
+  height: 90px;
+  background: var(--color-surface-inverse);
+  color: var(--color-text-inverse);
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  gap: 33px;
+  width: 100%;
+  height: 100%;
+  /* Figma's 1366px content extends 8px left of its centered 1358px frame. */
+  padding: 0 41px 0 33px;
+}
+
+.brand {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  width: 161px;
+  text-decoration: none;
+}
+
+.wordmark {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.05em;
+  white-space: nowrap;
+}
+
+.primaryNavigation,
+.accountNavigation {
+  display: flex;
+  align-items: center;
+}
+
+.primaryNavigation {
+  display: grid;
+  grid-template-columns: 70px 61px 112px 63px 97px;
+  column-gap: 48px;
+  justify-content: center;
+  flex: 1 1 883px;
+  min-width: 0;
+}
+
+.accountNavigation {
+  gap: 13px;
+  flex: 0 0 auto;
+}
+
+.navigationLink,
+.getStartedLink {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 1.2px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.loginLink,
+.getStartedLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.loginLink {
+  width: 108px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 1.2px;
+}
+
+.getStartedLink {
+  width: 137px;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  letter-spacing: 1.2px;
+}
+
+.loginLink span {
+  width: 40px;
+}
+
+.getStartedSlot {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+  height: 36px;
+}
+
+.getStartedLink span {
+  width: 96px;
+}
+
+.navigationLink:focus-visible,
+.brand:focus-visible,
+.loginLink:focus-visible,
+.getStartedLink:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+@media (min-width: 1101px) and (max-width: 1200px) {
+  .inner {
+    gap: 16px;
+  }
+
+  .primaryNavigation {
+    column-gap: 40px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .inner {
+    padding-inline: 32px;
+  }
+
+  .primaryNavigation {
+    display: none;
+  }
+
+  .accountNavigation {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .header {
+    height: 72px;
+  }
+
+  .inner {
+    padding-inline: 20px;
+  }
+
+  .brand {
+    width: 136px;
+  }
+
+  .wordmark {
+    font-size: calc(30px * 136 / 161);
+  }
+
+  .loginLink {
+    display: none;
+  }
+
+  .getStartedLink {
+    width: 124px;
+    height: 38px;
+    border-radius: 9px;
+    font-size: 11px;
+  }
+
+  .getStartedSlot {
+    width: 124px;
+    height: 38px;
+  }
+
+  .getStartedLink span {
+    width: auto;
+  }
+}
+
+@media (max-width: 389px) {
+  .inner {
+    padding-inline: 16px;
+  }
+
+  .brand {
+    width: 128px;
+  }
+
+  .wordmark {
+    font-size: calc(30px * 128 / 161);
+  }
+
+  .getStartedLink {
+    width: 116px;
+  }
+
+  .getStartedSlot {
+    width: 116px;
+  }
+}

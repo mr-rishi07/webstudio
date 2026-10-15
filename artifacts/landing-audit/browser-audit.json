@@ -1,0 +1,3450 @@
+[
+  {
+    "viewport": 1440,
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "pageHeight": 6025,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 90,
+          "bottom": 90,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 90,
+          "width": 1440,
+          "height": 967,
+          "bottom": 1057,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 1057,
+          "width": 1440,
+          "height": 847,
+          "bottom": 1904,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1904,
+          "width": 1440,
+          "height": 1019,
+          "bottom": 2923,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2923,
+          "width": 1440,
+          "height": 1049,
+          "bottom": 3972,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 3972,
+          "width": 1440,
+          "height": 853,
+          "bottom": 4825,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 4825,
+          "width": 1440,
+          "height": 576,
+          "bottom": 5401,
+          "right": 1440
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 5401,
+          "width": 1440,
+          "height": 624,
+          "bottom": 6025,
+          "right": 1440
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 420.478759765625,
+          "y": 155,
+          "width": 597.04248046875,
+          "height": 114,
+          "bottom": 269,
+          "right": 1017.521240234375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 79,
+          "y": 1239,
+          "width": 561.1680908203125,
+          "height": 114,
+          "bottom": 1353,
+          "right": 640.1680908203125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 79,
+          "y": 1976,
+          "width": 339.59320068359375,
+          "height": 128,
+          "bottom": 2104,
+          "right": 418.59320068359375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 80,
+          "y": 3032,
+          "width": 596.162841796875,
+          "height": 114,
+          "bottom": 3146,
+          "right": 676.162841796875
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 125,
+          "y": 4017,
+          "width": 835.4252319335938,
+          "height": 41,
+          "bottom": 4058,
+          "right": 960.4252319335938
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 510.66680908203125,
+          "y": 4867,
+          "width": 418.6663818359375,
+          "height": 49,
+          "bottom": 4916,
+          "right": 929.3331909179688
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 626,
+          "y": 5509,
+          "width": 166,
+          "height": 18,
+          "bottom": 5527,
+          "right": 792
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 874,
+          "y": 5509,
+          "width": 166,
+          "height": 18,
+          "bottom": 5527,
+          "right": 1040
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 1122,
+          "y": 5509,
+          "width": 224,
+          "height": 18,
+          "bottom": 5527,
+          "right": 1346
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          160.4375,
+          28.083984375
+        ],
+        "aspectError": 0.25389109117462993
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          310,
+          384.25
+        ],
+        "aspectError": 0.000003143082546785969
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          1010,
+          376
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          1320,
+          772
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          1340,
+          785
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          1235,
+          605
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          1440,
+          494
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          358,
+          60
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  },
+  {
+    "viewport": 1280,
+    "clientWidth": 1280,
+    "scrollWidth": 1280,
+    "pageHeight": 5970,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1280,
+          "height": 90,
+          "bottom": 90,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 90,
+          "width": 1280,
+          "height": 967,
+          "bottom": 1057,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 1057,
+          "width": 1280,
+          "height": 847,
+          "bottom": 1904,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1904,
+          "width": 1280,
+          "height": 1019,
+          "bottom": 2923,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2923,
+          "width": 1280,
+          "height": 1049,
+          "bottom": 3972,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 3972,
+          "width": 1280,
+          "height": 853,
+          "bottom": 4825,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 4825,
+          "width": 1280,
+          "height": 521.109375,
+          "bottom": 5346.109375,
+          "right": 1280
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 5346.109375,
+          "width": 1280,
+          "height": 624,
+          "bottom": 5970.109375,
+          "right": 1280
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 340.478759765625,
+          "y": 155,
+          "width": 597.04248046875,
+          "height": 114,
+          "bottom": 269,
+          "right": 937.521240234375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 79,
+          "y": 1239,
+          "width": 561.1680908203125,
+          "height": 114,
+          "bottom": 1353,
+          "right": 640.1680908203125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 79,
+          "y": 1976,
+          "width": 339.59320068359375,
+          "height": 128,
+          "bottom": 2104,
+          "right": 418.59320068359375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 80,
+          "y": 3032,
+          "width": 596.162841796875,
+          "height": 114,
+          "bottom": 3146,
+          "right": 676.162841796875
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 85,
+          "y": 4017,
+          "width": 835.4252319335938,
+          "height": 41,
+          "bottom": 4058,
+          "right": 920.4252319335938
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 430.66680908203125,
+          "y": 4867,
+          "width": 418.6663818359375,
+          "height": 49,
+          "bottom": 4916,
+          "right": 849.3331909179688
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 466,
+          "y": 5454.109375,
+          "width": 166,
+          "height": 18,
+          "bottom": 5472.109375,
+          "right": 632
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 714,
+          "y": 5454.109375,
+          "width": 166,
+          "height": 18,
+          "bottom": 5472.109375,
+          "right": 880
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 962,
+          "y": 5454.109375,
+          "width": 224,
+          "height": 18,
+          "bottom": 5472.109375,
+          "right": 1186
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          160.4375,
+          28.083984375
+        ],
+        "aspectError": 0.25389109117462993
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          310,
+          384.25
+        ],
+        "aspectError": 0.000003143082546785969
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          310,
+          384.859375
+        ],
+        "aspectError": 0.000022779962144836574
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          1010,
+          376
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          1280,
+          748.59375
+        ],
+        "aspectError": 0.00002811835230764892
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          1180,
+          691.265625
+        ],
+        "aspectError": 0.000007486498747377723
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          1170,
+          573.15625
+        ],
+        "aspectError": 0.000005857805819076134
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          1280,
+          439.109375
+        ],
+        "aspectError": 0.000011524984509847513
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          358,
+          60
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -80,
+          "y": 474,
+          "width": 1440,
+          "height": 530,
+          "bottom": 1004,
+          "right": 1360
+        },
+        "parentOverflow": "hidden"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -32.875,
+          "y": 619.015625,
+          "width": 310,
+          "height": 384.859375,
+          "bottom": 1003.875,
+          "right": 277.125
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 1002.75,
+          "y": 619.015625,
+          "width": 310,
+          "height": 384.859375,
+          "bottom": 1003.875,
+          "right": 1312.75
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "P",
+        "className": "FullyCustomized-module__IfMMGG__description",
+        "rect": {
+          "x": 801,
+          "y": 1975,
+          "width": 507.739990234375,
+          "height": 156,
+          "bottom": 2131,
+          "right": 1308.739990234375
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "FullyCustomized-module__IfMMGG__artwork",
+        "rect": {
+          "x": 32,
+          "y": 2048,
+          "width": 1280,
+          "height": 748.59375,
+          "bottom": 2796.59375,
+          "right": 1312
+        },
+        "parentOverflow": "hidden"
+      }
+    ],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  },
+  {
+    "viewport": 1024,
+    "clientWidth": 1024,
+    "scrollWidth": 1024,
+    "pageHeight": 5192,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 90,
+          "bottom": 90,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 90,
+          "width": 1024,
+          "height": 810,
+          "bottom": 900,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 900,
+          "width": 1024,
+          "height": 760,
+          "bottom": 1660,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1660,
+          "width": 1024,
+          "height": 850,
+          "bottom": 2510,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2510,
+          "width": 1024,
+          "height": 860,
+          "bottom": 3370,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 3370,
+          "width": 1024,
+          "height": 764.4375,
+          "bottom": 4134.4375,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 4134.4375,
+          "width": 1024,
+          "height": 433.28125,
+          "bottom": 4567.71875,
+          "right": 1024
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 4567.71875,
+          "width": 1024,
+          "height": 624,
+          "bottom": 5191.71875,
+          "right": 1024
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 240.34600830078125,
+          "y": 151,
+          "width": 541.2923583984375,
+          "height": 104,
+          "bottom": 255,
+          "right": 781.6383666992188
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 48,
+          "y": 1032,
+          "width": 474.953125,
+          "height": 100,
+          "bottom": 1132,
+          "right": 522.953125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 48,
+          "y": 1718,
+          "width": 290.109375,
+          "height": 108,
+          "bottom": 1826,
+          "right": 338.109375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 48,
+          "y": 2598,
+          "width": 489.578125,
+          "height": 96,
+          "bottom": 2694,
+          "right": 537.578125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 56,
+          "y": 3402,
+          "width": 830,
+          "height": 39,
+          "bottom": 3441,
+          "right": 886
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 302.66680908203125,
+          "y": 4176.4375,
+          "width": 418.6663818359375,
+          "height": 49,
+          "bottom": 4225.4375,
+          "right": 721.3331909179688
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 48,
+          "y": 4761.71875,
+          "width": 277.328125,
+          "height": 18,
+          "bottom": 4779.71875,
+          "right": 325.328125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 373.328125,
+          "y": 4761.71875,
+          "width": 277.328125,
+          "height": 18,
+          "bottom": 4779.71875,
+          "right": 650.65625
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 698.65625,
+          "y": 4761.71875,
+          "width": 277.34375,
+          "height": 18,
+          "bottom": 4779.71875,
+          "right": 976
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          160.4375,
+          28.083984375
+        ],
+        "aspectError": 0.25389109117462993
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4409942626953,
+          273.67333984375
+        ],
+        "aspectError": 0.00002323497677103603
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4409942626953,
+          273.673583984375
+        ],
+        "aspectError": 0.000022516410146944388
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.44094848632812,
+          273.67333984375
+        ],
+        "aspectError": 0.00002306771032400956
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          220.44091796875,
+          273.240234375
+        ],
+        "aspectError": 0.0000026675559210431743
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4410400390625,
+          273.67333984375
+        ],
+        "aspectError": 0.000023402243218062502
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          928,
+          345.46875
+        ],
+        "aspectError": 0.000035124185647994466
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          976,
+          570.796875
+        ],
+        "aspectError": 0.00004567062994120796
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          976,
+          571.75
+        ],
+        "aspectError": 0.000033420691306851324
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          944,
+          462.4375
+        ],
+        "aspectError": 0.0000346260774573004
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          1024,
+          351.28125
+        ],
+        "aspectError": 0.00006338854259313464
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          358,
+          60
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  },
+  {
+    "viewport": 768,
+    "clientWidth": 768,
+    "scrollWidth": 768,
+    "pageHeight": 5210,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 90,
+          "bottom": 90,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 90,
+          "width": 768,
+          "height": 810,
+          "bottom": 900,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 900,
+          "width": 768,
+          "height": 750,
+          "bottom": 1650,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1650,
+          "width": 768,
+          "height": 850,
+          "bottom": 2500,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2500,
+          "width": 768,
+          "height": 840,
+          "bottom": 3340,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 3340,
+          "width": 768,
+          "height": 702.03125,
+          "bottom": 4042.03125,
+          "right": 768
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 4042.03125,
+          "width": 768,
+          "height": 345.453125,
+          "bottom": 4387.484375,
+          "right": 768
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 4387.484375,
+          "width": 768,
+          "height": 823,
+          "bottom": 5210.484375,
+          "right": 768
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 112.34600830078125,
+          "y": 151,
+          "width": 541.2923583984375,
+          "height": 104,
+          "bottom": 255,
+          "right": 653.6383666992188
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 40,
+          "y": 1016,
+          "width": 688,
+          "height": 94,
+          "bottom": 1110,
+          "right": 728
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 48,
+          "y": 1708,
+          "width": 290.109375,
+          "height": 108,
+          "bottom": 1816,
+          "right": 338.109375
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 40,
+          "y": 2576,
+          "width": 688,
+          "height": 96,
+          "bottom": 2672,
+          "right": 728
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 56,
+          "y": 3372,
+          "width": 656,
+          "height": 78,
+          "bottom": 3450,
+          "right": 712
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 174.66680908203125,
+          "y": 4084.03125,
+          "width": 418.6663818359375,
+          "height": 49,
+          "bottom": 4133.03125,
+          "right": 593.3331909179688
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 24,
+          "y": 4625.484375,
+          "width": 336,
+          "height": 18,
+          "bottom": 4643.484375,
+          "right": 360
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 408,
+          "y": 4625.484375,
+          "width": 336,
+          "height": 18,
+          "bottom": 4643.484375,
+          "right": 744
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 24,
+          "y": 4836.484375,
+          "width": 336,
+          "height": 18,
+          "bottom": 4854.484375,
+          "right": 360
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          160.4375,
+          28.083984375
+        ],
+        "aspectError": 0.25389109117462993
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4409942626953,
+          273.67333984375
+        ],
+        "aspectError": 0.00002323497677103603
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4409942626953,
+          273.673583984375
+        ],
+        "aspectError": 0.000022516410146944388
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.44097900390625,
+          273.67333984375
+        ],
+        "aspectError": 0.000023179221288693874
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          220.44094848632812,
+          273.240234375
+        ],
+        "aspectError": 0.000002779243638562079
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          220.4410400390625,
+          273.67333984375
+        ],
+        "aspectError": 0.000023402243218062502
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          704,
+          262.078125
+        ],
+        "aspectError": 0.000051691484921789765
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          720,
+          421.078125
+        ],
+        "aspectError": 0.000051911526608217073
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          744,
+          435.84375
+        ],
+        "aspectError": 0.00002740127662548275
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          688,
+          337.03125
+        ],
+        "aspectError": 0.00003141798564731957
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          768,
+          263.453125
+        ],
+        "aspectError": 0.00014983190732920093
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          358,
+          60
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -127.99197387695312,
+          "y": 472,
+          "width": 1023.98388671875,
+          "height": 376.883056640625,
+          "bottom": 848.883056640625,
+          "right": 895.9919128417969
+        },
+        "parentOverflow": "hidden"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -94.48138427734375,
+          "y": 575.12060546875,
+          "width": 220.4409942626953,
+          "height": 273.67333984375,
+          "bottom": 848.7939453125,
+          "right": 125.95960998535156
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 641.9515380859375,
+          "y": 575.12060546875,
+          "width": 220.4410400390625,
+          "height": 273.67333984375,
+          "bottom": 848.7939453125,
+          "right": 862.392578125
+        },
+        "parentOverflow": "visible"
+      }
+    ],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  },
+  {
+    "viewport": 390,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "pageHeight": 4397,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 72,
+          "bottom": 72,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 72,
+          "width": 390,
+          "height": 664,
+          "bottom": 736,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 736,
+          "width": 390,
+          "height": 620,
+          "bottom": 1356,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1356,
+          "width": 390,
+          "height": 650,
+          "bottom": 2006,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2006,
+          "width": 390,
+          "height": 650,
+          "bottom": 2656,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 2656,
+          "width": 390,
+          "height": 539.53125,
+          "bottom": 3195.53125,
+          "right": 390
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 3195.53125,
+          "width": 390,
+          "height": 191.78125,
+          "bottom": 3387.3125,
+          "right": 390
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 3387.3125,
+          "width": 390,
+          "height": 1010,
+          "bottom": 4397.3125,
+          "right": 390
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 21.275009155273438,
+          "y": 119,
+          "width": 345.449951171875,
+          "height": 105,
+          "bottom": 224,
+          "right": 366.72496032714844
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 24,
+          "y": 824,
+          "width": 342,
+          "height": 70,
+          "bottom": 894,
+          "right": 366
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 24,
+          "y": 1404,
+          "width": 342,
+          "height": 74,
+          "bottom": 1478,
+          "right": 366
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 24,
+          "y": 2070,
+          "width": 342,
+          "height": 111,
+          "bottom": 2181,
+          "right": 366
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 40,
+          "y": 2682,
+          "width": 310,
+          "height": 102,
+          "bottom": 2784,
+          "right": 350
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 46.70683288574219,
+          "y": 3217.53125,
+          "width": 296.5863037109375,
+          "height": 36,
+          "bottom": 3253.53125,
+          "right": 343.2931365966797
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 16,
+          "y": 3625.3125,
+          "width": 358,
+          "height": 18,
+          "bottom": 3643.3125,
+          "right": 374
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 16,
+          "y": 3832.3125,
+          "width": 358,
+          "height": 18,
+          "bottom": 3850.3125,
+          "right": 374
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 16,
+          "y": 4003.3125,
+          "width": 358,
+          "height": 18,
+          "bottom": 4021.3125,
+          "right": 374
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          136,
+          23.806640625
+        ],
+        "aspectError": 0.25397489539748985
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.8000030517578,
+          184.732421875
+        ],
+        "aspectError": 0.000023137130565342723
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.8000030517578,
+          184.732666015625
+        ],
+        "aspectError": 0.000022072604817346964
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.80001831054688,
+          184.732421875
+        ],
+        "aspectError": 0.000023219729975432202
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          148.79995727539062,
+          184.43994140625
+        ],
+        "aspectError": 0.0000031677348047987053
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.79995727539062,
+          184.732421875
+        ],
+        "aspectError": 0.00002288933233518531
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          358,
+          133.265625
+        ],
+        "aspectError": 0.00019395653876763674
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          366,
+          214.046875
+        ],
+        "aspectError": 0.00006127295702906821
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          366,
+          214.40625
+        ],
+        "aspectError": 0.000033420691306851324
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          342,
+          167.53125
+        ],
+        "aspectError": 0.00008787061745296754
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          390,
+          133.78125
+        ],
+        "aspectError": 0.00022697031511986765
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          358,
+          60
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -150.60000610351562,
+          "y": 462,
+          "width": 691.199951171875,
+          "height": 254.39990234375,
+          "bottom": 716.39990234375,
+          "right": 540.5999450683594
+        },
+        "parentOverflow": "hidden"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -127.98001098632812,
+          "y": 531.607421875,
+          "width": 148.8000030517578,
+          "height": 184.732421875,
+          "bottom": 716.33984375,
+          "right": 20.819992065429688
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__sliceDebit",
+        "rect": {
+          "x": -7.5000152587890625,
+          "y": 479.887451171875,
+          "width": 148.8000030517578,
+          "height": 184.732666015625,
+          "bottom": 664.6201171875,
+          "right": 141.29998779296875
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__neoCultural",
+        "rect": {
+          "x": 248.625,
+          "y": 479.89501953125,
+          "width": 148.79995727539062,
+          "height": 184.43994140625,
+          "bottom": 664.3349609375,
+          "right": 397.4249572753906
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 369.1199645996094,
+          "y": 531.607421875,
+          "width": 148.79995727539062,
+          "height": 184.732421875,
+          "bottom": 716.33984375,
+          "right": 517.919921875
+        },
+        "parentOverflow": "visible"
+      }
+    ],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  },
+  {
+    "viewport": 320,
+    "clientWidth": 320,
+    "scrollWidth": 320,
+    "pageHeight": 4421,
+    "sections": [
+      {
+        "tag": "HEADER",
+        "label": "HEADER",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 320,
+          "height": 72,
+          "bottom": 72,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "landing-hero-heading",
+        "rect": {
+          "x": 0,
+          "y": 72,
+          "width": 320,
+          "height": 664,
+          "bottom": 736,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "explore-creativity-heading",
+        "rect": {
+          "x": 0,
+          "y": 736,
+          "width": 320,
+          "height": 620,
+          "bottom": 1356,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "fully-customized-heading",
+        "rect": {
+          "x": 0,
+          "y": 1356,
+          "width": 320,
+          "height": 650,
+          "bottom": 2006,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-templates-heading",
+        "rect": {
+          "x": 0,
+          "y": 2006,
+          "width": 320,
+          "height": 650,
+          "bottom": 2656,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "global-variables-heading",
+        "rect": {
+          "x": 0,
+          "y": 2656,
+          "width": 320,
+          "height": 579.15625,
+          "bottom": 3235.15625,
+          "right": 320
+        }
+      },
+      {
+        "tag": "SECTION",
+        "label": "website-showcase-heading",
+        "rect": {
+          "x": 0,
+          "y": 3235.15625,
+          "width": 320,
+          "height": 164.765625,
+          "bottom": 3399.921875,
+          "right": 320
+        }
+      },
+      {
+        "tag": "FOOTER",
+        "label": "site-footer",
+        "rect": {
+          "x": 0,
+          "y": 3399.921875,
+          "width": 320,
+          "height": 1021.265625,
+          "bottom": 4421.1875,
+          "right": 320
+        }
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Make Collaboration Part of YourCreative Workflow",
+        "rect": {
+          "x": 20.82000732421875,
+          "y": 119,
+          "width": 276.3599853515625,
+          "height": 105,
+          "bottom": 224,
+          "right": 297.17999267578125
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Explore creativity. Share yourvision.",
+        "rect": {
+          "x": 24,
+          "y": 824,
+          "width": 272,
+          "height": 105,
+          "bottom": 929,
+          "right": 296
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your Vision,Fully Customized",
+        "rect": {
+          "x": 24,
+          "y": 1404,
+          "width": 272,
+          "height": 74,
+          "bottom": 1478,
+          "right": 296
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "The smarter way to build digitalexperiences",
+        "rect": {
+          "x": 24,
+          "y": 2070,
+          "width": 272,
+          "height": 111,
+          "bottom": 2181,
+          "right": 296
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Assign and manage global variables across your website",
+        "rect": {
+          "x": 30,
+          "y": 2682,
+          "width": 260,
+          "height": 96,
+          "bottom": 2778,
+          "right": 290
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Build with web studio",
+        "rect": {
+          "x": 26.685760498046875,
+          "y": 3257.15625,
+          "width": 266.62847900390625,
+          "height": 33,
+          "bottom": 3290.15625,
+          "right": 293.3142395019531
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRODUCT",
+        "rect": {
+          "x": 16,
+          "y": 3649.1875,
+          "width": 288,
+          "height": 18,
+          "bottom": 3667.1875,
+          "right": 304
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "AGENCY",
+        "rect": {
+          "x": 16,
+          "y": 3856.1875,
+          "width": 288,
+          "height": 18,
+          "bottom": 3874.1875,
+          "right": 304
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "PRICING",
+        "rect": {
+          "x": 16,
+          "y": 4027.1875,
+          "width": 288,
+          "height": 18,
+          "bottom": 4045.1875,
+          "right": 304
+        }
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          128,
+          22.40234375
+        ],
+        "aspectError": 0.25297878523684947
+      },
+      {
+        "src": "/images/landing/hero/hero-card-quiet-technology.png",
+        "alt": "Quiet Technology website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.8000030517578,
+          184.732421875
+        ],
+        "aspectError": 0.000023137130565342723
+      },
+      {
+        "src": "/images/landing/hero/hero-card-slice-debit.png",
+        "alt": "Slice Debit Card website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.8000030517578,
+          184.732666015625
+        ],
+        "aspectError": 0.000022072604817346964
+      },
+      {
+        "src": "/images/landing/hero/hero-card-babyhush.png",
+        "alt": "BabyHush mobile interfaces website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.80001831054688,
+          184.732421875
+        ],
+        "aspectError": 0.000023219729975432202
+      },
+      {
+        "src": "/images/landing/hero/hero-card-neocultural-couture.png",
+        "alt": "NeoCultural Couture website preview",
+        "natural": [
+          501,
+          621
+        ],
+        "rendered": [
+          148.79995727539062,
+          184.43994140625
+        ],
+        "aspectError": 0.0000031677348047987053
+      },
+      {
+        "src": "/images/landing/hero/hero-card-inflatable-illustrations.png",
+        "alt": "Inflatable Illustrations website preview",
+        "natural": [
+          501,
+          622
+        ],
+        "rendered": [
+          148.79998779296875,
+          184.732421875
+        ],
+        "aspectError": 0.000023054531155253244
+      },
+      {
+        "src": "/images/landing/creativity/perspective-showcase.png",
+        "alt": "Perspective arrangement of website designs created with WebStudio",
+        "natural": [
+          2020,
+          752
+        ],
+        "rendered": [
+          288,
+          107.203125
+        ],
+        "aspectError": 0.00031863725590541847
+      },
+      {
+        "src": "/images/landing/customization/editor-illustration.png",
+        "alt": "WebStudio editor showing a fashion website with floating block callouts",
+        "natural": [
+          2640,
+          1544
+        ],
+        "rendered": [
+          296,
+          173.109375
+        ],
+        "aspectError": 0.000057056083792028645
+      },
+      {
+        "src": "/images/landing/global-control/templates-illustration.png",
+        "alt": "Global templates interface with template cards, settings dialogs, and jewelry website previews",
+        "natural": [
+          2680,
+          1570
+        ],
+        "rendered": [
+          296,
+          173.390625
+        ],
+        "aspectError": 0.00012168320008432154
+      },
+      {
+        "src": "/images/landing/global-control/variables-illustration.png",
+        "alt": "Global variables interface with number and color controls, filters, and variable generator examples",
+        "natural": [
+          2470,
+          1210
+        ],
+        "rendered": [
+          280,
+          137.15625
+        ],
+        "aspectError": 0.00014499057561234707
+      },
+      {
+        "src": "/images/landing/showcase/website-mosaic.png",
+        "alt": "A mosaic of websites created with WebStudio",
+        "natural": [
+          2880,
+          988
+        ],
+        "rendered": [
+          320,
+          109.765625
+        ],
+        "aspectError": 0.0003227340181828353
+      },
+      {
+        "src": "/images/shared/webstudio-wordmark-light.svg",
+        "alt": "WebStudio",
+        "natural": [
+          358,
+          60
+        ],
+        "rendered": [
+          288,
+          48.265625
+        ],
+        "aspectError": 0.00031293838351142966
+      },
+      {
+        "src": "/images/shared/social-x.svg",
+        "alt": "X",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-github.svg",
+        "alt": "GitHub",
+        "natural": [
+          22,
+          22
+        ],
+        "rendered": [
+          22,
+          22
+        ],
+        "aspectError": 0
+      },
+      {
+        "src": "/images/shared/social-discord.svg",
+        "alt": "Discord",
+        "natural": [
+          26,
+          24
+        ],
+        "rendered": [
+          26,
+          24
+        ],
+        "aspectError": 0
+      }
+    ],
+    "focusables": [
+      {
+        "tag": "A",
+        "text": "WebStudio home",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRODUCT",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "AGENCY",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "ENTER PRISING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "PRICING",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "WEB BUILDER",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Login",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "GET STARTED",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Book demo",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Explore All Blocks",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Learn More",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "A",
+        "text": "Variable Generator",
+        "href": "/",
+        "type": null,
+        "ariaDisabled": null
+      },
+      {
+        "tag": "INPUT",
+        "text": "Enter email address",
+        "href": null,
+        "type": "email",
+        "ariaDisabled": null
+      },
+      {
+        "tag": "BUTTON",
+        "text": "JOIN",
+        "href": null,
+        "type": "button",
+        "ariaDisabled": "true"
+      }
+    ],
+    "outside": [
+      {
+        "tag": "DIV",
+        "className": "LandingHero-module__kyBMeG__cards",
+        "rect": {
+          "x": -185.60000610351562,
+          "y": 462,
+          "width": 691.2000122070312,
+          "height": 254.39990234375,
+          "bottom": 716.39990234375,
+          "right": 505.6000061035156
+        },
+        "parentOverflow": "hidden"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__quietTechnology",
+        "rect": {
+          "x": -162.98001098632812,
+          "y": 531.607421875,
+          "width": 148.8000030517578,
+          "height": 184.732421875,
+          "bottom": 716.33984375,
+          "right": -14.180007934570312
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__sliceDebit",
+        "rect": {
+          "x": -42.50001525878906,
+          "y": 479.887451171875,
+          "width": 148.8000030517578,
+          "height": 184.732666015625,
+          "bottom": 664.6201171875,
+          "right": 106.29998779296875
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__neoCultural",
+        "rect": {
+          "x": 213.625,
+          "y": 479.89501953125,
+          "width": 148.79995727539062,
+          "height": 184.43994140625,
+          "bottom": 664.3349609375,
+          "right": 362.4249572753906
+        },
+        "parentOverflow": "visible"
+      },
+      {
+        "tag": "IMG",
+        "className": "LandingHero-module__kyBMeG__card LandingHero-module__kyBMeG__inflatable",
+        "rect": {
+          "x": 334.1199645996094,
+          "y": 531.607421875,
+          "width": 148.79998779296875,
+          "height": 184.732421875,
+          "bottom": 716.33984375,
+          "right": 482.9199523925781
+        },
+        "parentOverflow": "visible"
+      }
+    ],
+    "metadata": {
+      "lang": "en",
+      "title": "WebStudio",
+      "description": "WebStudio public marketing website.",
+      "viewport": "width=device-width, initial-scale=1",
+      "canonical": null,
+      "ogTitle": null
+    },
+    "copyright": "© 2026 DEEP TECH INITIATIVE. ALL RIGHTS RESERVED."
+  }
+]
