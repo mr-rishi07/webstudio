@@ -27,4 +27,8 @@ Thumbs.db
 next-env.d.ts
 
 
-Microsoft/
+# Generated audit screenshots and reports
+/artifacts/
+
+# Local PowerShell cache
+/Microsoft/
